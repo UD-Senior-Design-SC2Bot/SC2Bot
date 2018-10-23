@@ -6,7 +6,7 @@ class Logger:
         self.meme = "Hi"
     
     def log(self, content):
-        self.logfile.write(content)
+        self.logfile.write(content + "\n")
 
     def __del__(self):
         self.logfile.close()
