@@ -1,4 +1,6 @@
 # Machine-Learning-Based StarCraft II Bot
 Prerequisites:
-Python 3.4+
-pysc2
+
+- Python 3.4+ or greater
+
+- pysc2
