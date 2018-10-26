@@ -10,9 +10,11 @@ import datetime
 import logger
 
 class MyAgent(base_agent.BaseAgent):
+
+        
     def __init__(self):
         super(MyAgent, self).__init__()
-        self.logger = logger.Logger("Logs/Log.txt")
+        self.changelog()
         self.logger.log("********** Logged on {} **********".format(datetime.datetime.now()))
 
     def step(self, obs):
@@ -44,7 +46,7 @@ class MyAgent(base_agent.BaseAgent):
         idle_workers = obs.observation['player'][7]
         food_used = obs.observation['player'][8]
 
-        self.logger.log("-- Step {}".format(self.steps))
+        self.logger.log(datetime.datetime.now().isoformat())
         self.logger.log("\t Minerals:     {}".format(minerals))
         self.logger.log("\t Vespene:      {}".format(vespene))
         self.logger.log("\t Idle Workers: {}".format(idle_workers))
@@ -52,3 +54,16 @@ class MyAgent(base_agent.BaseAgent):
 
         # Do nothing
         return actions.FunctionCall(actions.FUNCTIONS.no_op.id, [])
+
+    def reset(self):
+        self.episodes += 1
+        self.changelog()
+
+    def changelog(self):
+        filename = "Logs/Log" + str(self.episodes) + ".txt"
+        f = open(filename, "w")
+        self.logger = logger.Logger(filename)
+
+    
+        
+        
