@@ -14,8 +14,7 @@ class MyAgent(base_agent.BaseAgent):
         
     def __init__(self):
         super(MyAgent, self).__init__()
-        self.changelog()
-        self.logger.log("********** Logged on {} **********".format(datetime.datetime.now()))
+        
 
     def step(self, obs):
         '''
@@ -60,9 +59,11 @@ class MyAgent(base_agent.BaseAgent):
         self.changelog()
 
     def changelog(self):
-        filename = "Logs/Log" + str(self.episodes) + ".txt"
+        filename = "Logs/Log" + datetime.datetime.now().isoformat() + ".txt"
+        filename = filename.replace(":", "-")
         f = open(filename, "w")
         self.logger = logger.Logger(filename)
+        self.logger.log("********** Logged on {} **********".format(datetime.datetime.now()))
 
     
         
