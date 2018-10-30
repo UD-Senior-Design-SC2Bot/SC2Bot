@@ -13,6 +13,7 @@ class MyAgent(base_agent.BaseAgent):
 
         
     def __init__(self):
+        print("Starting")
         super(MyAgent, self).__init__()
         
 
