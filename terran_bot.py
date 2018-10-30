@@ -124,4 +124,3 @@ class TerranBot(base_agent.BaseAgent):
                 return actions.FunctionCall(_ATTACK_MINIMAP, [_NOT_QUEUED, [21, 24]])
 
         return actions.FunctionCall(_NOOP, [])
-        
