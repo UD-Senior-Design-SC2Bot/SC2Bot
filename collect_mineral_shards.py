@@ -1,5 +1,5 @@
 '''
-Run using "python3 -m pysc2.bin.agent --map CollectMineralShards --agent CollectMineralShards.MyAgent"
+Run using "python3 -m pysc2.bin.agent --map CollectMineralShards --agent collect_mineral_shards.MyAgent"
 '''
 
 from __future__ import absolute_import
@@ -15,6 +15,7 @@ from pysc2.lib import features
 import time
 import datetime
 import logger
+import random
 
 _PLAYER_SELF = features.PlayerRelative.SELF
 _PLAYER_NEUTRAL = features.PlayerRelative.NEUTRAL  # beacon/minerals
@@ -36,6 +37,25 @@ def _mineral_log(minerals):
     f.write(str(minerals)+ "\n\n")
     f.close()
 
+def _move(xy_coord, direction):
+    x_coord = int(xy_coord[0])
+    y_coord = int(xy_coord[1])
+    #right
+    if direction == 0:
+        x_coord = x_coord + 5
+    #left
+    elif direction == 1:
+        x_coord = x_coord - 5
+    #up
+    elif direction == 2:
+        y_coord = y_coord + 5
+    #down
+    else:
+        y_coord = y_coord - 5
+
+    new_coord = (x_coord,y_coord)
+    return new_coord
+
 class MyAgent(base_agent.BaseAgent):
 
     def __init__(self):
@@ -47,6 +67,7 @@ class MyAgent(base_agent.BaseAgent):
 
     def step(self, obs):
         super(MyAgent, self).step(obs)
+
         if FUNCTIONS.Move_screen.id in obs.observation.available_actions:
             player_relative = obs.observation.feature_screen.player_relative
             minerals = _xy_locs(player_relative == _PLAYER_NEUTRAL)
@@ -57,7 +78,12 @@ class MyAgent(base_agent.BaseAgent):
             marine_xy = numpy.mean(marines, axis=0).round()  # Average location.
             distances = numpy.linalg.norm(numpy.array(minerals) - marine_xy, axis=1)
             closest_mineral_xy = minerals[numpy.argmin(distances)]
-            #time.sleep(.5)
-            return FUNCTIONS.Move_screen("now", closest_mineral_xy)
+
+            direction = random.randint(0,3)
+            print(marine_xy)
+            new_coord = _move(marine_xy, direction)
+            time.sleep(.5)
+            #return FUNCTIONS.Move_screen("now", closest_mineral_xy)
+            return FUNCTIONS.Move_screen("now", new_coord)
         else:
             return FUNCTIONS.select_army("select")
