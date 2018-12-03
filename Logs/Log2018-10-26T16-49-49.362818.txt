@@ -1,0 +1,6391 @@
+********** Logged on 2018-10-26 16:49:49.362818 **********
+2018-10-26T16:49:49.362818
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.414787
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.439771
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.507732
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.531718
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.554718
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.629662
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.652648
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.676635
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.718611
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.742598
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.763587
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.793569
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.874520
+	 Minerals:     55
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.898507
+	 Minerals:     55
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.926491
+	 Minerals:     60
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.959472
+	 Minerals:     65
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:49.986456
+	 Minerals:     65
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.017453
+	 Minerals:     75
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.049433
+	 Minerals:     75
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.080402
+	 Minerals:     90
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.107402
+	 Minerals:     95
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.137369
+	 Minerals:     105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.163367
+	 Minerals:     105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.188340
+	 Minerals:     110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.221321
+	 Minerals:     110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.241310
+	 Minerals:     110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.264298
+	 Minerals:     110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.287296
+	 Minerals:     110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.308273
+	 Minerals:     115
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.332270
+	 Minerals:     120
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.370235
+	 Minerals:     130
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.398219
+	 Minerals:     135
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.426203
+	 Minerals:     140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.454205
+	 Minerals:     140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.482173
+	 Minerals:     150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.509155
+	 Minerals:     155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.539138
+	 Minerals:     160
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.559145
+	 Minerals:     170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.584125
+	 Minerals:     170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.609111
+	 Minerals:     170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.633102
+	 Minerals:     170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.653100
+	 Minerals:     170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.680067
+	 Minerals:     170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.705042
+	 Minerals:     175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.734026
+	 Minerals:     185
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.759011
+	 Minerals:     195
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.790995
+	 Minerals:     200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.812980
+	 Minerals:     200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.836968
+	 Minerals:     200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.861954
+	 Minerals:     200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.885940
+	 Minerals:     220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.909938
+	 Minerals:     225
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.935923
+	 Minerals:     230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.956911
+	 Minerals:     230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:50.982883
+	 Minerals:     230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.010878
+	 Minerals:     230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.031856
+	 Minerals:     230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.051854
+	 Minerals:     235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.076839
+	 Minerals:     240
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.099817
+	 Minerals:     250
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.123817
+	 Minerals:     255
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.149800
+	 Minerals:     260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.172773
+	 Minerals:     260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.196773
+	 Minerals:     260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.224757
+	 Minerals:     265
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.246744
+	 Minerals:     280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.267732
+	 Minerals:     285
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.295717
+	 Minerals:     285
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.315705
+	 Minerals:     290
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.345674
+	 Minerals:     290
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.373661
+	 Minerals:     290
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.394646
+	 Minerals:     295
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.417643
+	 Minerals:     300
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.445616
+	 Minerals:     305
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.465605
+	 Minerals:     310
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.494588
+	 Minerals:     315
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.527569
+	 Minerals:     320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.551568
+	 Minerals:     320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.574553
+	 Minerals:     325
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.595544
+	 Minerals:     325
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.621515
+	 Minerals:     330
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.644502
+	 Minerals:     340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.669487
+	 Minerals:     345
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.697471
+	 Minerals:     350
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.721472
+	 Minerals:     355
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.755451
+	 Minerals:     355
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.778436
+	 Minerals:     365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.804424
+	 Minerals:     365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.824401
+	 Minerals:     365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.848398
+	 Minerals:     370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.870382
+	 Minerals:     370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.895372
+	 Minerals:     385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.917358
+	 Minerals:     385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.947341
+	 Minerals:     385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.970314
+	 Minerals:     385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:51.994301
+	 Minerals:     390
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.018287
+	 Minerals:     390
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.040287
+	 Minerals:     405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.060276
+	 Minerals:     410
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.089246
+	 Minerals:     420
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.132234
+	 Minerals:     425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.160220
+	 Minerals:     425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.184192
+	 Minerals:     425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.206209
+	 Minerals:     425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.241169
+	 Minerals:     430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.268157
+	 Minerals:     435
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.294128
+	 Minerals:     445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.315116
+	 Minerals:     445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.342113
+	 Minerals:     445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.365088
+	 Minerals:     445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.389087
+	 Minerals:     450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.414059
+	 Minerals:     455
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.445041
+	 Minerals:     470
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.465032
+	 Minerals:     480
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.487031
+	 Minerals:     480
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.520009
+	 Minerals:     485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.544997
+	 Minerals:     485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.574980
+	 Minerals:     485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.596954
+	 Minerals:     485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.621953
+	 Minerals:     495
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.648924
+	 Minerals:     495
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.673924
+	 Minerals:     500
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.722895
+	 Minerals:     505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.745868
+	 Minerals:     505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.766856
+	 Minerals:     505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.817827
+	 Minerals:     515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.845810
+	 Minerals:     515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.875793
+	 Minerals:     530
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.897781
+	 Minerals:     540
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.920767
+	 Minerals:     540
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.945753
+	 Minerals:     545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.970739
+	 Minerals:     545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:52.991727
+	 Minerals:     550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.015726
+	 Minerals:     550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.043709
+	 Minerals:     555
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.072680
+	 Minerals:     555
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.097686
+	 Minerals:     560
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.127662
+	 Minerals:     565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.152644
+	 Minerals:     570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.182617
+	 Minerals:     575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.209602
+	 Minerals:     585
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.235586
+	 Minerals:     585
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.257587
+	 Minerals:     590
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.280561
+	 Minerals:     600
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.311557
+	 Minerals:     600
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.335542
+	 Minerals:     600
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.357516
+	 Minerals:     610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.388512
+	 Minerals:     610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.412513
+	 Minerals:     610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.434472
+	 Minerals:     615
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.463455
+	 Minerals:     615
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.487441
+	 Minerals:     620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.511427
+	 Minerals:     625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.537424
+	 Minerals:     630
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.560412
+	 Minerals:     645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.590384
+	 Minerals:     645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.615386
+	 Minerals:     645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.638357
+	 Minerals:     650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.665339
+	 Minerals:     650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.688330
+	 Minerals:     660
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.712312
+	 Minerals:     665
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.738297
+	 Minerals:     665
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.765283
+	 Minerals:     670
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.788268
+	 Minerals:     675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.815266
+	 Minerals:     675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.840249
+	 Minerals:     675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.864225
+	 Minerals:     680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.889210
+	 Minerals:     695
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.915208
+	 Minerals:     695
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.936198
+	 Minerals:     705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.959183
+	 Minerals:     705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:53.982172
+	 Minerals:     705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.002145
+	 Minerals:     710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.030142
+	 Minerals:     715
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.053129
+	 Minerals:     715
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.078115
+	 Minerals:     725
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.113081
+	 Minerals:     725
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.134069
+	 Minerals:     730
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.161054
+	 Minerals:     735
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.188049
+	 Minerals:     740
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.221033
+	 Minerals:     740
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.254014
+	 Minerals:     750
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.285995
+	 Minerals:     755
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.317974
+	 Minerals:     755
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.345947
+	 Minerals:     765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.375930
+	 Minerals:     765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.399916
+	 Minerals:     765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.422916
+	 Minerals:     770
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.450900
+	 Minerals:     775
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.476886
+	 Minerals:     775
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.506868
+	 Minerals:     785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.529851
+	 Minerals:     785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.555826
+	 Minerals:     785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.587819
+	 Minerals:     800
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.610809
+	 Minerals:     805
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.636780
+	 Minerals:     810
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.662775
+	 Minerals:     810
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.687764
+	 Minerals:     815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.710750
+	 Minerals:     815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.737722
+	 Minerals:     820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.767719
+	 Minerals:     830
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.792703
+	 Minerals:     830
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.835679
+	 Minerals:     830
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.860664
+	 Minerals:     835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.882652
+	 Minerals:     835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.904639
+	 Minerals:     835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.931610
+	 Minerals:     850
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.954617
+	 Minerals:     850
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:54.977598
+	 Minerals:     870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.002569
+	 Minerals:     870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.026555
+	 Minerals:     870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.048543
+	 Minerals:     870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.076540
+	 Minerals:     875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.098528
+	 Minerals:     875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.128497
+	 Minerals:     885
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.154500
+	 Minerals:     890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.182466
+	 Minerals:     890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.205453
+	 Minerals:     890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.245443
+	 Minerals:     895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.268416
+	 Minerals:     895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.300409
+	 Minerals:     900
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.322399
+	 Minerals:     915
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.344387
+	 Minerals:     920
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.368359
+	 Minerals:     925
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.391346
+	 Minerals:     930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.416331
+	 Minerals:     930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.451311
+	 Minerals:     930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.481295
+	 Minerals:     935
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.526286
+	 Minerals:     940
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.555251
+	 Minerals:     945
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.585235
+	 Minerals:     945
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.614220
+	 Minerals:     950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.639203
+	 Minerals:     950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.663189
+	 Minerals:     955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.693172
+	 Minerals:     960
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.727719
+	 Minerals:     965
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.762699
+	 Minerals:     970
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.797666
+	 Minerals:     980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.825649
+	 Minerals:     985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.847654
+	 Minerals:     985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.869634
+	 Minerals:     990
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.899616
+	 Minerals:     995
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.926604
+	 Minerals:     1000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.948578
+	 Minerals:     1000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:55.985571
+	 Minerals:     1005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.012555
+	 Minerals:     1005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.039539
+	 Minerals:     1005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.065511
+	 Minerals:     1015
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.085523
+	 Minerals:     1025
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.116495
+	 Minerals:     1030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.145479
+	 Minerals:     1030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.169464
+	 Minerals:     1030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.194437
+	 Minerals:     1035
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.217437
+	 Minerals:     1045
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.241420
+	 Minerals:     1045
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.266396
+	 Minerals:     1055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.287383
+	 Minerals:     1055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.319365
+	 Minerals:     1055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.341366
+	 Minerals:     1065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.367351
+	 Minerals:     1065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.393333
+	 Minerals:     1065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.423315
+	 Minerals:     1070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.461286
+	 Minerals:     1080
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.483284
+	 Minerals:     1090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.513253
+	 Minerals:     1090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.536240
+	 Minerals:     1090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.560239
+	 Minerals:     1090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.586229
+	 Minerals:     1090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.610198
+	 Minerals:     1105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.635196
+	 Minerals:     1110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.663177
+	 Minerals:     1110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.688167
+	 Minerals:     1115
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.721147
+	 Minerals:     1115
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.747118
+	 Minerals:     1125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.775102
+	 Minerals:     1125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.802100
+	 Minerals:     1135
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.823088
+	 Minerals:     1140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.849073
+	 Minerals:     1140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.872061
+	 Minerals:     1150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.897033
+	 Minerals:     1150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.924019
+	 Minerals:     1150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.949004
+	 Minerals:     1150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.968993
+	 Minerals:     1160
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:56.994986
+	 Minerals:     1160
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.016974
+	 Minerals:     1170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.040960
+	 Minerals:     1170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.067934
+	 Minerals:     1170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.089932
+	 Minerals:     1175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.113921
+	 Minerals:     1190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.139907
+	 Minerals:     1195
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.165891
+	 Minerals:     1200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.187878
+	 Minerals:     1200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.220846
+	 Minerals:     1200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.256825
+	 Minerals:     1205
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.292804
+	 Minerals:     1210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.333781
+	 Minerals:     1210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.364777
+	 Minerals:     1215
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.395759
+	 Minerals:     1220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.422730
+	 Minerals:     1220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.449716
+	 Minerals:     1230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.483695
+	 Minerals:     1230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.510679
+	 Minerals:     1230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.546672
+	 Minerals:     1245
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.589648
+	 Minerals:     1255
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.616620
+	 Minerals:     1260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.647619
+	 Minerals:     1260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.674587
+	 Minerals:     1260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.706567
+	 Minerals:     1260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.732565
+	 Minerals:     1260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.759536
+	 Minerals:     1275
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.787520
+	 Minerals:     1275
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.810508
+	 Minerals:     1275
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.836503
+	 Minerals:     1280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.865477
+	 Minerals:     1280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.896471
+	 Minerals:     1280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.927439
+	 Minerals:     1295
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.952439
+	 Minerals:     1300
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:57.976412
+	 Minerals:     1305
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.003396
+	 Minerals:     1320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.030381
+	 Minerals:     1320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.060363
+	 Minerals:     1320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.085348
+	 Minerals:     1320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.112333
+	 Minerals:     1320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.134334
+	 Minerals:     1325
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.161305
+	 Minerals:     1335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.186304
+	 Minerals:     1335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.210290
+	 Minerals:     1335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.239272
+	 Minerals:     1340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.266258
+	 Minerals:     1340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.290244
+	 Minerals:     1350
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.319228
+	 Minerals:     1360
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.344213
+	 Minerals:     1365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.421165
+	 Minerals:     1365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.445141
+	 Minerals:     1380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.470141
+	 Minerals:     1380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.512116
+	 Minerals:     1380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.535102
+	 Minerals:     1380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.565086
+	 Minerals:     1385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.586081
+	 Minerals:     1385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.610062
+	 Minerals:     1390
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.639032
+	 Minerals:     1395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.662018
+	 Minerals:     1395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.687002
+	 Minerals:     1400
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.714001
+	 Minerals:     1410
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.738986
+	 Minerals:     1410
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.763972
+	 Minerals:     1415
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.794940
+	 Minerals:     1425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.819928
+	 Minerals:     1425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.841926
+	 Minerals:     1435
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.874894
+	 Minerals:     1440
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.900893
+	 Minerals:     1445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.931861
+	 Minerals:     1445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.954848
+	 Minerals:     1445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:58.983846
+	 Minerals:     1445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.010829
+	 Minerals:     1450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.038800
+	 Minerals:     1450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.061787
+	 Minerals:     1465
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.086773
+	 Minerals:     1470
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.123751
+	 Minerals:     1475
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.151735
+	 Minerals:     1475
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.180732
+	 Minerals:     1475
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.205717
+	 Minerals:     1475
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.235686
+	 Minerals:     1485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.257687
+	 Minerals:     1490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.282673
+	 Minerals:     1500
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.313642
+	 Minerals:     1505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.339640
+	 Minerals:     1505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.370622
+	 Minerals:     1505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.394595
+	 Minerals:     1505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.421594
+	 Minerals:     1510
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.455573
+	 Minerals:     1520
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.490540
+	 Minerals:     1525
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.513541
+	 Minerals:     1535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.536527
+	 Minerals:     1535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.570507
+	 Minerals:     1535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.596493
+	 Minerals:     1535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.619467
+	 Minerals:     1535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.651460
+	 Minerals:     1550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.676443
+	 Minerals:     1555
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.713425
+	 Minerals:     1560
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.743395
+	 Minerals:     1565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.773391
+	 Minerals:     1565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.803360
+	 Minerals:     1565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.828346
+	 Minerals:     1570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.852332
+	 Minerals:     1575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.875318
+	 Minerals:     1585
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.904315
+	 Minerals:     1585
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.931299
+	 Minerals:     1595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.957272
+	 Minerals:     1595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:49:59.983272
+	 Minerals:     1595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.011242
+	 Minerals:     1595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.034245
+	 Minerals:     1600
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.066208
+	 Minerals:     1605
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.091208
+	 Minerals:     1615
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.120191
+	 Minerals:     1620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.147175
+	 Minerals:     1620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.176146
+	 Minerals:     1625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.202130
+	 Minerals:     1635
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.225117
+	 Minerals:     1635
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.255100
+	 Minerals:     1640
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.280098
+	 Minerals:     1645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.312081
+	 Minerals:     1650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.334073
+	 Minerals:     1655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.378029
+	 Minerals:     1655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.403028
+	 Minerals:     1655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.429999
+	 Minerals:     1660
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.458993
+	 Minerals:     1660
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.483968
+	 Minerals:     1665
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.506968
+	 Minerals:     1675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.538937
+	 Minerals:     1680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.565921
+	 Minerals:     1685
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.590920
+	 Minerals:     1690
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.626886
+	 Minerals:     1695
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.654883
+	 Minerals:     1700
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.684853
+	 Minerals:     1700
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.707839
+	 Minerals:     1705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.731825
+	 Minerals:     1710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.763819
+	 Minerals:     1710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.792790
+	 Minerals:     1720
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.817776
+	 Minerals:     1720
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.844763
+	 Minerals:     1720
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.873757
+	 Minerals:     1720
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.897730
+	 Minerals:     1725
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.924728
+	 Minerals:     1725
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.952712
+	 Minerals:     1750
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:00.977685
+	 Minerals:     1750
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.014676
+	 Minerals:     1755
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.044646
+	 Minerals:     1760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.072643
+	 Minerals:     1760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.124599
+	 Minerals:     1760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.160579
+	 Minerals:     1765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.198557
+	 Minerals:     1770
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.226556
+	 Minerals:     1775
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.258536
+	 Minerals:     1775
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.284507
+	 Minerals:     1780
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.312492
+	 Minerals:     1780
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.336478
+	 Minerals:     1780
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.371457
+	 Minerals:     1790
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.397443
+	 Minerals:     1795
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.440418
+	 Minerals:     1810
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.465416
+	 Minerals:     1815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.500397
+	 Minerals:     1815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.528385
+	 Minerals:     1815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.558363
+	 Minerals:     1820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.581347
+	 Minerals:     1820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.606332
+	 Minerals:     1825
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.639303
+	 Minerals:     1835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.664307
+	 Minerals:     1835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.695284
+	 Minerals:     1835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.724268
+	 Minerals:     1840
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.753238
+	 Minerals:     1840
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.795226
+	 Minerals:     1845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.838202
+	 Minerals:     1855
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.875168
+	 Minerals:     1855
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.920142
+	 Minerals:     1865
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.945127
+	 Minerals:     1875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:01.981109
+	 Minerals:     1875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.017086
+	 Minerals:     1875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.050069
+	 Minerals:     1880
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.078070
+	 Minerals:     1885
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.113049
+	 Minerals:     1890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.148010
+	 Minerals:     1895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.190999
+	 Minerals:     1895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.219983
+	 Minerals:     1895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.250961
+	 Minerals:     1900
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.278935
+	 Minerals:     1910
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.307919
+	 Minerals:     1910
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.333904
+	 Minerals:     1920
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.362900
+	 Minerals:     1920
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.392883
+	 Minerals:     1920
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.428864
+	 Minerals:     1925
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.458845
+	 Minerals:     1935
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.500821
+	 Minerals:     1935
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.525793
+	 Minerals:     1940
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.555775
+	 Minerals:     1945
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.579763
+	 Minerals:     1950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.607746
+	 Minerals:     1955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.634744
+	 Minerals:     1955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.668721
+	 Minerals:     1960
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.694706
+	 Minerals:     1965
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.726677
+	 Minerals:     1970
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.751682
+	 Minerals:     1975
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.785643
+	 Minerals:     1980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.813628
+	 Minerals:     1980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.838613
+	 Minerals:     1980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.861613
+	 Minerals:     1985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.885599
+	 Minerals:     1995
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.914583
+	 Minerals:     2000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.939568
+	 Minerals:     2000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.975547
+	 Minerals:     2000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:02.999533
+	 Minerals:     2005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.029517
+	 Minerals:     2020
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.055502
+	 Minerals:     2020
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.086481
+	 Minerals:     2025
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.111456
+	 Minerals:     2030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.136442
+	 Minerals:     2030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.167434
+	 Minerals:     2040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.193409
+	 Minerals:     2040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.216396
+	 Minerals:     2040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.244380
+	 Minerals:     2040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.269376
+	 Minerals:     2050
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.293352
+	 Minerals:     2050
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.321350
+	 Minerals:     2060
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.347333
+	 Minerals:     2060
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.377304
+	 Minerals:     2060
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.399304
+	 Minerals:     2070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.433284
+	 Minerals:     2085
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.458271
+	 Minerals:     2085
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.489251
+	 Minerals:     2090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.533220
+	 Minerals:     2090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.566195
+	 Minerals:     2090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.589181
+	 Minerals:     2100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.624161
+	 Minerals:     2100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.653146
+	 Minerals:     2100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.684152
+	 Minerals:     2105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.722119
+	 Minerals:     2110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.761083
+	 Minerals:     2110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.798061
+	 Minerals:     2120
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.831042
+	 Minerals:     2125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.858040
+	 Minerals:     2125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.905999
+	 Minerals:     2135
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.930999
+	 Minerals:     2145
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.962966
+	 Minerals:     2150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:03.997946
+	 Minerals:     2150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.024943
+	 Minerals:     2150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.047917
+	 Minerals:     2150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.069917
+	 Minerals:     2155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.097899
+	 Minerals:     2165
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.123873
+	 Minerals:     2165
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.151870
+	 Minerals:     2165
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.180840
+	 Minerals:     2170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.213822
+	 Minerals:     2170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.241806
+	 Minerals:     2175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.267804
+	 Minerals:     2190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.293791
+	 Minerals:     2190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.325771
+	 Minerals:     2200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.356753
+	 Minerals:     2205
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.387722
+	 Minerals:     2210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.417705
+	 Minerals:     2210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.446688
+	 Minerals:     2210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.475671
+	 Minerals:     2210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.507668
+	 Minerals:     2220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.534651
+	 Minerals:     2220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.566619
+	 Minerals:     2225
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.602616
+	 Minerals:     2225
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.641588
+	 Minerals:     2235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.664562
+	 Minerals:     2235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.692564
+	 Minerals:     2240
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.719544
+	 Minerals:     2245
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.747528
+	 Minerals:     2255
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.774500
+	 Minerals:     2260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.802496
+	 Minerals:     2265
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.828481
+	 Minerals:     2270
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.859451
+	 Minerals:     2270
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.884436
+	 Minerals:     2270
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.908422
+	 Minerals:     2275
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.945401
+	 Minerals:     2280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:04.971399
+	 Minerals:     2280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.001368
+	 Minerals:     2285
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.029366
+	 Minerals:     2290
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.062349
+	 Minerals:     2295
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.087332
+	 Minerals:     2300
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.115316
+	 Minerals:     2300
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.146285
+	 Minerals:     2305
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.170271
+	 Minerals:     2315
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.200267
+	 Minerals:     2320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.228238
+	 Minerals:     2325
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.270213
+	 Minerals:     2325
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.297198
+	 Minerals:     2335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.330193
+	 Minerals:     2335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.367171
+	 Minerals:     2335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.397141
+	 Minerals:     2340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.425138
+	 Minerals:     2345
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.455108
+	 Minerals:     2345
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.482104
+	 Minerals:     2355
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.508090
+	 Minerals:     2355
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.538078
+	 Minerals:     2365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.563045
+	 Minerals:     2365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.594027
+	 Minerals:     2365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.628010
+	 Minerals:     2365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.654010
+	 Minerals:     2380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.694983
+	 Minerals:     2385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.725970
+	 Minerals:     2390
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.752949
+	 Minerals:     2395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.778921
+	 Minerals:     2395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.809917
+	 Minerals:     2395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.837887
+	 Minerals:     2405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.868880
+	 Minerals:     2405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.905863
+	 Minerals:     2410
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.934831
+	 Minerals:     2415
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.960826
+	 Minerals:     2420
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:05.988800
+	 Minerals:     2425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.015798
+	 Minerals:     2425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.043782
+	 Minerals:     2425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.072752
+	 Minerals:     2425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.109732
+	 Minerals:     2440
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.139727
+	 Minerals:     2445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.168708
+	 Minerals:     2450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.203691
+	 Minerals:     2450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.231675
+	 Minerals:     2460
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.264655
+	 Minerals:     2460
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.293624
+	 Minerals:     2465
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.318610
+	 Minerals:     2470
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.345595
+	 Minerals:     2475
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.370594
+	 Minerals:     2475
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.399564
+	 Minerals:     2480
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.431546
+	 Minerals:     2485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.457531
+	 Minerals:     2485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.486527
+	 Minerals:     2485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.515497
+	 Minerals:     2490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.546490
+	 Minerals:     2495
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.571465
+	 Minerals:     2505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.608443
+	 Minerals:     2510
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.639426
+	 Minerals:     2515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.674419
+	 Minerals:     2515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.721396
+	 Minerals:     2530
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.750364
+	 Minerals:     2530
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.780355
+	 Minerals:     2535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.807342
+	 Minerals:     2535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.835313
+	 Minerals:     2535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.865310
+	 Minerals:     2535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.890295
+	 Minerals:     2545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.924262
+	 Minerals:     2545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.951261
+	 Minerals:     2550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:06.979243
+	 Minerals:     2550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.013222
+	 Minerals:     2555
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.043193
+	 Minerals:     2570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.068179
+	 Minerals:     2575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.098162
+	 Minerals:     2575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.126159
+	 Minerals:     2580
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.154144
+	 Minerals:     2590
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.179117
+	 Minerals:     2595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.210115
+	 Minerals:     2595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.236095
+	 Minerals:     2595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.269063
+	 Minerals:     2595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.297061
+	 Minerals:     2595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.326031
+	 Minerals:     2610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.350030
+	 Minerals:     2610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.375003
+	 Minerals:     2610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.402000
+	 Minerals:     2615
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.430983
+	 Minerals:     2620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.458967
+	 Minerals:     2620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.488950
+	 Minerals:     2640
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.516934
+	 Minerals:     2640
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.545920
+	 Minerals:     2645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.575887
+	 Minerals:     2650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.603871
+	 Minerals:     2655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.633854
+	 Minerals:     2655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.658839
+	 Minerals:     2655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.691821
+	 Minerals:     2655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.719804
+	 Minerals:     2660
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.748787
+	 Minerals:     2665
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.777784
+	 Minerals:     2670
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.806768
+	 Minerals:     2675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.834751
+	 Minerals:     2680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.862735
+	 Minerals:     2680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.893717
+	 Minerals:     2685
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.930683
+	 Minerals:     2690
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.958666
+	 Minerals:     2705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:07.993646
+	 Minerals:     2705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.017633
+	 Minerals:     2710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.041619
+	 Minerals:     2710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.068603
+	 Minerals:     2715
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.093602
+	 Minerals:     2715
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.125571
+	 Minerals:     2720
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.151555
+	 Minerals:     2720
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.181548
+	 Minerals:     2725
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.208533
+	 Minerals:     2735
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.273486
+	 Minerals:     2735
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.297472
+	 Minerals:     2735
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.342459
+	 Minerals:     2745
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.372442
+	 Minerals:     2745
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.406422
+	 Minerals:     2755
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.433408
+	 Minerals:     2765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.467387
+	 Minerals:     2765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.495358
+	 Minerals:     2770
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.530353
+	 Minerals:     2770
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.563332
+	 Minerals:     2780
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.592302
+	 Minerals:     2780
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.621285
+	 Minerals:     2780
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.648270
+	 Minerals:     2785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.674255
+	 Minerals:     2785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.704238
+	 Minerals:     2790
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.735220
+	 Minerals:     2800
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.763208
+	 Minerals:     2800
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.791187
+	 Minerals:     2810
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.824182
+	 Minerals:     2810
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.849168
+	 Minerals:     2815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.878151
+	 Minerals:     2815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.904122
+	 Minerals:     2825
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.932120
+	 Minerals:     2830
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.961091
+	 Minerals:     2835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:08.997080
+	 Minerals:     2835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.023068
+	 Minerals:     2840
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.054050
+	 Minerals:     2845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.082033
+	 Minerals:     2845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.110004
+	 Minerals:     2845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.135989
+	 Minerals:     2855
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.166984
+	 Minerals:     2860
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.197967
+	 Minerals:     2865
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.227938
+	 Minerals:     2870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.255922
+	 Minerals:     2870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.283906
+	 Minerals:     2870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.311902
+	 Minerals:     2875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.342884
+	 Minerals:     2885
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.366856
+	 Minerals:     2895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.396852
+	 Minerals:     2895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.427835
+	 Minerals:     2900
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.455806
+	 Minerals:     2905
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.480805
+	 Minerals:     2905
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.514784
+	 Minerals:     2905
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.539757
+	 Minerals:     2910
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.571752
+	 Minerals:     2920
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.598724
+	 Minerals:     2920
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.642711
+	 Minerals:     2925
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.667696
+	 Minerals:     2930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.701679
+	 Minerals:     2930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.728648
+	 Minerals:     2930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.760643
+	 Minerals:     2940
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.782630
+	 Minerals:     2940
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.813599
+	 Minerals:     2950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.843597
+	 Minerals:     2960
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.873564
+	 Minerals:     2960
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.900549
+	 Minerals:     2960
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.931531
+	 Minerals:     2970
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.957527
+	 Minerals:     2970
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:09.991497
+	 Minerals:     2975
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.020493
+	 Minerals:     2980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.051475
+	 Minerals:     2980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.074462
+	 Minerals:     2980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.119424
+	 Minerals:     2990
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.146410
+	 Minerals:     2990
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.178402
+	 Minerals:     2995
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.209384
+	 Minerals:     3000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.241367
+	 Minerals:     3005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.271350
+	 Minerals:     3010
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.299320
+	 Minerals:     3020
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.327314
+	 Minerals:     3020
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.354301
+	 Minerals:     3025
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.385270
+	 Minerals:     3025
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.412270
+	 Minerals:     3035
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.438253
+	 Minerals:     3035
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.467223
+	 Minerals:     3040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.498205
+	 Minerals:     3040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.523201
+	 Minerals:     3040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.554186
+	 Minerals:     3055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.586156
+	 Minerals:     3055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.620148
+	 Minerals:     3055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.651117
+	 Minerals:     3065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.681101
+	 Minerals:     3065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.707085
+	 Minerals:     3065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.740066
+	 Minerals:     3085
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.764052
+	 Minerals:     3085
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.799050
+	 Minerals:     3090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.827016
+	 Minerals:     3090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.860010
+	 Minerals:     3095
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.890992
+	 Minerals:     3095
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.919962
+	 Minerals:     3100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.946962
+	 Minerals:     3100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:10.979941
+	 Minerals:     3105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.002915
+	 Minerals:     3110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.031898
+	 Minerals:     3120
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.060895
+	 Minerals:     3120
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.088880
+	 Minerals:     3125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.121859
+	 Minerals:     3125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.151842
+	 Minerals:     3130
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.181825
+	 Minerals:     3135
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.210809
+	 Minerals:     3150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.241777
+	 Minerals:     3150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.270773
+	 Minerals:     3150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.298744
+	 Minerals:     3150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.327730
+	 Minerals:     3155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.357724
+	 Minerals:     3155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.384695
+	 Minerals:     3165
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.415677
+	 Minerals:     3165
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.442676
+	 Minerals:     3175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.475656
+	 Minerals:     3180
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.507624
+	 Minerals:     3180
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.540606
+	 Minerals:     3185
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.564592
+	 Minerals:     3190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.599571
+	 Minerals:     3190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.632552
+	 Minerals:     3200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.659538
+	 Minerals:     3210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.690519
+	 Minerals:     3210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.721501
+	 Minerals:     3210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.751484
+	 Minerals:     3210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.778468
+	 Minerals:     3215
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.807452
+	 Minerals:     3220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.835436
+	 Minerals:     3230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.861420
+	 Minerals:     3230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.886406
+	 Minerals:     3235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.910392
+	 Minerals:     3235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.941387
+	 Minerals:     3245
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.966373
+	 Minerals:     3250
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:11.995344
+	 Minerals:     3255
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.019343
+	 Minerals:     3255
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.045328
+	 Minerals:     3260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.076310
+	 Minerals:     3260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.103281
+	 Minerals:     3270
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.133279
+	 Minerals:     3270
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.162260
+	 Minerals:     3275
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.193241
+	 Minerals:     3275
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.222226
+	 Minerals:     3285
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.251196
+	 Minerals:     3290
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.279180
+	 Minerals:     3295
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.306165
+	 Minerals:     3295
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.339156
+	 Minerals:     3300
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.374127
+	 Minerals:     3300
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.400124
+	 Minerals:     3310
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.428108
+	 Minerals:     3315
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.460087
+	 Minerals:     3315
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.489059
+	 Minerals:     3320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.513062
+	 Minerals:     3320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.545038
+	 Minerals:     3330
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.575023
+	 Minerals:     3335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.605007
+	 Minerals:     3340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.637987
+	 Minerals:     3340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.668969
+	 Minerals:     3340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.693941
+	 Minerals:     3350
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.717941
+	 Minerals:     3355
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.751908
+	 Minerals:     3360
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.779895
+	 Minerals:     3365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.830879
+	 Minerals:     3365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.860859
+	 Minerals:     3370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.884845
+	 Minerals:     3375
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.911829
+	 Minerals:     3375
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.938814
+	 Minerals:     3380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.964804
+	 Minerals:     3385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:12.995778
+	 Minerals:     3385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.019764
+	 Minerals:     3400
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.060744
+	 Minerals:     3400
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.088714
+	 Minerals:     3400
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.118697
+	 Minerals:     3400
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.147694
+	 Minerals:     3415
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.180676
+	 Minerals:     3420
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.218653
+	 Minerals:     3425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.252633
+	 Minerals:     3425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.279618
+	 Minerals:     3425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.307588
+	 Minerals:     3425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.331576
+	 Minerals:     3435
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.356560
+	 Minerals:     3435
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.390554
+	 Minerals:     3445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.419538
+	 Minerals:     3450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.458520
+	 Minerals:     3450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.484486
+	 Minerals:     3455
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.514469
+	 Minerals:     3460
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.542467
+	 Minerals:     3460
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.573448
+	 Minerals:     3465
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.600433
+	 Minerals:     3470
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.631415
+	 Minerals:     3485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.658404
+	 Minerals:     3485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.686370
+	 Minerals:     3485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.715353
+	 Minerals:     3485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.742348
+	 Minerals:     3485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.768323
+	 Minerals:     3500
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.795308
+	 Minerals:     3500
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.824291
+	 Minerals:     3510
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.852288
+	 Minerals:     3510
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.882273
+	 Minerals:     3510
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.910241
+	 Minerals:     3510
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.938225
+	 Minerals:     3525
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:13.964224
+	 Minerals:     3525
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.001202
+	 Minerals:     3530
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.026177
+	 Minerals:     3535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.054158
+	 Minerals:     3540
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.083142
+	 Minerals:     3545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.112125
+	 Minerals:     3545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.137129
+	 Minerals:     3545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.169092
+	 Minerals:     3550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.198090
+	 Minerals:     3560
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.236067
+	 Minerals:     3565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.260054
+	 Minerals:     3570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.284026
+	 Minerals:     3570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.317025
+	 Minerals:     3570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.344991
+	 Minerals:     3575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.380971
+	 Minerals:     3575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.413965
+	 Minerals:     3590
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.441949
+	 Minerals:     3590
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.469919
+	 Minerals:     3590
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.506898
+	 Minerals:     3600
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.537880
+	 Minerals:     3605
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.569877
+	 Minerals:     3605
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.596860
+	 Minerals:     3610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.626830
+	 Minerals:     3615
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.653814
+	 Minerals:     3620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.684795
+	 Minerals:     3625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.710794
+	 Minerals:     3630
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.739765
+	 Minerals:     3630
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.768758
+	 Minerals:     3635
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.805740
+	 Minerals:     3635
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.829725
+	 Minerals:     3640
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.858706
+	 Minerals:     3650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.881684
+	 Minerals:     3650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.907667
+	 Minerals:     3650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.937663
+	 Minerals:     3660
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.963635
+	 Minerals:     3665
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:14.991619
+	 Minerals:     3675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.018617
+	 Minerals:     3675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.045588
+	 Minerals:     3675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.070574
+	 Minerals:     3680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.101575
+	 Minerals:     3685
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.125542
+	 Minerals:     3695
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.157537
+	 Minerals:     3695
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.182509
+	 Minerals:     3700
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.208508
+	 Minerals:     3700
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.236479
+	 Minerals:     3700
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.261480
+	 Minerals:     3700
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.289448
+	 Minerals:     3710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.325427
+	 Minerals:     3710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.351412
+	 Minerals:     3725
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.381395
+	 Minerals:     3730
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.409393
+	 Minerals:     3730
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.435377
+	 Minerals:     3735
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.463361
+	 Minerals:     3735
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.490346
+	 Minerals:     3735
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.516330
+	 Minerals:     3750
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.547300
+	 Minerals:     3750
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.572285
+	 Minerals:     3760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.605266
+	 Minerals:     3760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.635262
+	 Minerals:     3760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.663246
+	 Minerals:     3760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.689218
+	 Minerals:     3760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.719213
+	 Minerals:     3765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.749197
+	 Minerals:     3785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.776178
+	 Minerals:     3790
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.804151
+	 Minerals:     3790
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.836146
+	 Minerals:     3790
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.863131
+	 Minerals:     3795
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.915101
+	 Minerals:     3795
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.943086
+	 Minerals:     3800
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:15.973057
+	 Minerals:     3815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.002038
+	 Minerals:     3815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.033020
+	 Minerals:     3820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.060017
+	 Minerals:     3820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.090986
+	 Minerals:     3820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.121987
+	 Minerals:     3820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.151951
+	 Minerals:     3825
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.181934
+	 Minerals:     3830
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.211930
+	 Minerals:     3845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.234904
+	 Minerals:     3850
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.262887
+	 Minerals:     3850
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.288873
+	 Minerals:     3850
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.319868
+	 Minerals:     3855
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.346852
+	 Minerals:     3860
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.375836
+	 Minerals:     3865
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.403806
+	 Minerals:     3875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.432789
+	 Minerals:     3875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.456789
+	 Minerals:     3875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.487772
+	 Minerals:     3880
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.517743
+	 Minerals:     3880
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.547724
+	 Minerals:     3890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.575725
+	 Minerals:     3890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.604692
+	 Minerals:     3890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.634676
+	 Minerals:     3900
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.667655
+	 Minerals:     3910
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.693639
+	 Minerals:     3910
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.721636
+	 Minerals:     3915
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.748621
+	 Minerals:     3915
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.779604
+	 Minerals:     3925
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.805575
+	 Minerals:     3925
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.833559
+	 Minerals:     3935
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.861561
+	 Minerals:     3935
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.898532
+	 Minerals:     3935
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.926506
+	 Minerals:     3945
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.958487
+	 Minerals:     3950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:16.982474
+	 Minerals:     3950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.014455
+	 Minerals:     3950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.043438
+	 Minerals:     3950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.079418
+	 Minerals:     3955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.107412
+	 Minerals:     3975
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.143381
+	 Minerals:     3975
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.170366
+	 Minerals:     3980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.196361
+	 Minerals:     3980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.223335
+	 Minerals:     3980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.254317
+	 Minerals:     3985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.280302
+	 Minerals:     3995
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.313283
+	 Minerals:     3995
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.341268
+	 Minerals:     4005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.380258
+	 Minerals:     4005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.409228
+	 Minerals:     4010
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.438211
+	 Minerals:     4010
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.467194
+	 Minerals:     4010
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.495178
+	 Minerals:     4010
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.520164
+	 Minerals:     4020
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.543169
+	 Minerals:     4020
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.573134
+	 Minerals:     4040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.602118
+	 Minerals:     4040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.634116
+	 Minerals:     4040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.661094
+	 Minerals:     4040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.696063
+	 Minerals:     4040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.722048
+	 Minerals:     4055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.754029
+	 Minerals:     4065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.788010
+	 Minerals:     4065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.826987
+	 Minerals:     4065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.853973
+	 Minerals:     4065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.882955
+	 Minerals:     4070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.914937
+	 Minerals:     4070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.944919
+	 Minerals:     4075
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:17.972917
+	 Minerals:     4080
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.002886
+	 Minerals:     4085
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.030871
+	 Minerals:     4100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.057867
+	 Minerals:     4100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.090849
+	 Minerals:     4100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.117833
+	 Minerals:     4100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.145805
+	 Minerals:     4110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.176800
+	 Minerals:     4120
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.202789
+	 Minerals:     4125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.242748
+	 Minerals:     4125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.269732
+	 Minerals:     4125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.292720
+	 Minerals:     4125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.323702
+	 Minerals:     4135
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.351699
+	 Minerals:     4135
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.380671
+	 Minerals:     4140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.410652
+	 Minerals:     4145
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.441644
+	 Minerals:     4145
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.470617
+	 Minerals:     4150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.501599
+	 Minerals:     4160
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.529583
+	 Minerals:     4160
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.559566
+	 Minerals:     4170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.586550
+	 Minerals:     4175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.621530
+	 Minerals:     4175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.652512
+	 Minerals:     4185
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.683496
+	 Minerals:     4185
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.713491
+	 Minerals:     4185
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.744471
+	 Minerals:     4190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.774443
+	 Minerals:     4190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.808437
+	 Minerals:     4200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.835407
+	 Minerals:     4200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.874385
+	 Minerals:     4205
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.902369
+	 Minerals:     4205
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.933353
+	 Minerals:     4210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:18.982336
+	 Minerals:     4220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.017303
+	 Minerals:     4230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.046299
+	 Minerals:     4230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.077268
+	 Minerals:     4235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.104253
+	 Minerals:     4235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.140231
+	 Minerals:     4240
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.170225
+	 Minerals:     4245
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.201197
+	 Minerals:     4250
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.228182
+	 Minerals:     4255
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.256165
+	 Minerals:     4255
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.280165
+	 Minerals:     4260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.314132
+	 Minerals:     4265
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.344131
+	 Minerals:     4265
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.377096
+	 Minerals:     4265
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.417088
+	 Minerals:     4280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.444071
+	 Minerals:     4280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.471042
+	 Minerals:     4290
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.505024
+	 Minerals:     4290
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.536006
+	 Minerals:     4295
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.567985
+	 Minerals:     4295
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.594970
+	 Minerals:     4305
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.625952
+	 Minerals:     4310
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.652939
+	 Minerals:     4315
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.681922
+	 Minerals:     4315
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.710905
+	 Minerals:     4315
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.748881
+	 Minerals:     4315
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.777865
+	 Minerals:     4325
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.808847
+	 Minerals:     4330
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.834834
+	 Minerals:     4335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.865814
+	 Minerals:     4340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.894798
+	 Minerals:     4340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.930777
+	 Minerals:     4340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.962772
+	 Minerals:     4350
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:19.993744
+	 Minerals:     4355
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.023724
+	 Minerals:     4360
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.057704
+	 Minerals:     4365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.086687
+	 Minerals:     4370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.122667
+	 Minerals:     4375
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.148652
+	 Minerals:     4375
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.178635
+	 Minerals:     4375
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.208617
+	 Minerals:     4375
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.239613
+	 Minerals:     4395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.265602
+	 Minerals:     4395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.296566
+	 Minerals:     4395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.324550
+	 Minerals:     4400
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.353548
+	 Minerals:     4400
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.381530
+	 Minerals:     4400
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.412500
+	 Minerals:     4415
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.445480
+	 Minerals:     4420
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.477462
+	 Minerals:     4425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.506445
+	 Minerals:     4430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.539438
+	 Minerals:     4430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.568410
+	 Minerals:     4435
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.597406
+	 Minerals:     4435
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.630374
+	 Minerals:     4440
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.659370
+	 Minerals:     4445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.689341
+	 Minerals:     4450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.720323
+	 Minerals:     4455
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.763308
+	 Minerals:     4455
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.791282
+	 Minerals:     4455
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.822265
+	 Minerals:     4460
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.853246
+	 Minerals:     4465
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.878256
+	 Minerals:     4465
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.908227
+	 Minerals:     4485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.937197
+	 Minerals:     4485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:20.973177
+	 Minerals:     4490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.000161
+	 Minerals:     4490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.032143
+	 Minerals:     4490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.060141
+	 Minerals:     4500
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.091123
+	 Minerals:     4505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.119106
+	 Minerals:     4505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.149089
+	 Minerals:     4510
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.172077
+	 Minerals:     4510
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.205043
+	 Minerals:     4515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.237025
+	 Minerals:     4515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.271019
+	 Minerals:     4525
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.296992
+	 Minerals:     4525
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.327986
+	 Minerals:     4530
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.357969
+	 Minerals:     4540
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.387952
+	 Minerals:     4545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.415937
+	 Minerals:     4545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.445918
+	 Minerals:     4555
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.473902
+	 Minerals:     4560
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.502887
+	 Minerals:     4560
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.531855
+	 Minerals:     4565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.567848
+	 Minerals:     4565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.595820
+	 Minerals:     4570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.626801
+	 Minerals:     4570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.656785
+	 Minerals:     4580
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.685779
+	 Minerals:     4580
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.714750
+	 Minerals:     4590
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.745733
+	 Minerals:     4590
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.772731
+	 Minerals:     4590
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.800714
+	 Minerals:     4595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.830697
+	 Minerals:     4605
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.861668
+	 Minerals:     4610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.889649
+	 Minerals:     4620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.918632
+	 Minerals:     4620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.945631
+	 Minerals:     4620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:21.980597
+	 Minerals:     4625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.006583
+	 Minerals:     4625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.035567
+	 Minerals:     4630
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.059553
+	 Minerals:     4635
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.090534
+	 Minerals:     4635
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.137517
+	 Minerals:     4645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.167489
+	 Minerals:     4650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.195490
+	 Minerals:     4650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.231453
+	 Minerals:     4655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.256452
+	 Minerals:     4660
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.285435
+	 Minerals:     4665
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.312419
+	 Minerals:     4675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.346388
+	 Minerals:     4680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.373385
+	 Minerals:     4680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.412349
+	 Minerals:     4680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.440332
+	 Minerals:     4680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.479310
+	 Minerals:     4685
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.510293
+	 Minerals:     4695
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.577254
+	 Minerals:     4700
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.610234
+	 Minerals:     4700
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.644215
+	 Minerals:     4705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.677196
+	 Minerals:     4710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.717173
+	 Minerals:     4710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.749169
+	 Minerals:     4720
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.781136
+	 Minerals:     4725
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.810133
+	 Minerals:     4725
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.850115
+	 Minerals:     4735
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.879098
+	 Minerals:     4740
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.913061
+	 Minerals:     4740
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.942044
+	 Minerals:     4740
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:22.979036
+	 Minerals:     4745
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.010018
+	 Minerals:     4750
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.043985
+	 Minerals:     4760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.075980
+	 Minerals:     4760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.107532
+	 Minerals:     4760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.136514
+	 Minerals:     4760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.169482
+	 Minerals:     4775
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.197479
+	 Minerals:     4775
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.231459
+	 Minerals:     4785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.259431
+	 Minerals:     4785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.291425
+	 Minerals:     4785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.319395
+	 Minerals:     4785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.357373
+	 Minerals:     4800
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.387375
+	 Minerals:     4800
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.418352
+	 Minerals:     4805
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.451335
+	 Minerals:     4805
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.488312
+	 Minerals:     4815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.517295
+	 Minerals:     4820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.554260
+	 Minerals:     4820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.586244
+	 Minerals:     4820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.619223
+	 Minerals:     4825
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.647207
+	 Minerals:     4835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.679201
+	 Minerals:     4840
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.710171
+	 Minerals:     4845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.757144
+	 Minerals:     4845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.788141
+	 Minerals:     4845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.827103
+	 Minerals:     4845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.862085
+	 Minerals:     4865
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.896065
+	 Minerals:     4865
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.924998
+	 Minerals:     4870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.965974
+	 Minerals:     4870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:23.999955
+	 Minerals:     4875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.052938
+	 Minerals:     4875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.084919
+	 Minerals:     4885
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.121886
+	 Minerals:     4885
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.152881
+	 Minerals:     4890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.184848
+	 Minerals:     4890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.212848
+	 Minerals:     4900
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.248825
+	 Minerals:     4905
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.278795
+	 Minerals:     4905
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.311776
+	 Minerals:     4905
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.342757
+	 Minerals:     4910
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.378750
+	 Minerals:     4915
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.409733
+	 Minerals:     4930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.438702
+	 Minerals:     4930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.467700
+	 Minerals:     4930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.502665
+	 Minerals:     4935
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.529663
+	 Minerals:     4940
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.561646
+	 Minerals:     4945
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.595612
+	 Minerals:     4950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.632590
+	 Minerals:     4950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.664572
+	 Minerals:     4950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.711546
+	 Minerals:     4955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.743529
+	 Minerals:     4965
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.780519
+	 Minerals:     4965
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.811488
+	 Minerals:     4970
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.844469
+	 Minerals:     4970
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.873472
+	 Minerals:     4975
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.904447
+	 Minerals:     4985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.962402
+	 Minerals:     4990
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:24.998380
+	 Minerals:     4995
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.033374
+	 Minerals:     5000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.064355
+	 Minerals:     5005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.099335
+	 Minerals:     5005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.157309
+	 Minerals:     5010
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.186286
+	 Minerals:     5010
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.220266
+	 Minerals:     5010
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.258230
+	 Minerals:     5015
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.299207
+	 Minerals:     5030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.326191
+	 Minerals:     5030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.361185
+	 Minerals:     5035
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.391169
+	 Minerals:     5035
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.428132
+	 Minerals:     5035
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.461124
+	 Minerals:     5040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.502091
+	 Minerals:     5055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.532086
+	 Minerals:     5055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.568067
+	 Minerals:     5065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.599036
+	 Minerals:     5065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.644009
+	 Minerals:     5065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.680987
+	 Minerals:     5065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.712969
+	 Minerals:     5070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.741965
+	 Minerals:     5070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.780943
+	 Minerals:     5080
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.809926
+	 Minerals:     5085
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.841905
+	 Minerals:     5095
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.873879
+	 Minerals:     5095
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.908856
+	 Minerals:     5095
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.945835
+	 Minerals:     5100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:25.979828
+	 Minerals:     5105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.007799
+	 Minerals:     5110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.041793
+	 Minerals:     5120
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.074761
+	 Minerals:     5125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.112749
+	 Minerals:     5125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.145734
+	 Minerals:     5125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.181701
+	 Minerals:     5125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.214699
+	 Minerals:     5130
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.245662
+	 Minerals:     5135
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.275647
+	 Minerals:     5150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.330622
+	 Minerals:     5150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.360596
+	 Minerals:     5155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.393591
+	 Minerals:     5155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.422561
+	 Minerals:     5160
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.454552
+	 Minerals:     5160
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.483526
+	 Minerals:     5170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.519518
+	 Minerals:     5170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.553485
+	 Minerals:     5180
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.590465
+	 Minerals:     5185
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.627443
+	 Minerals:     5185
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.661423
+	 Minerals:     5185
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.692405
+	 Minerals:     5190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.736382
+	 Minerals:     5190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.771360
+	 Minerals:     5200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.807340
+	 Minerals:     5210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.837322
+	 Minerals:     5210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.875301
+	 Minerals:     5215
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.911280
+	 Minerals:     5220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+2018-10-26T16:50:26.997230
+	 Minerals:     5220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
