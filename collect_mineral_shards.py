@@ -82,7 +82,7 @@ class MyAgent(base_agent.BaseAgent):
             direction = random.randint(0,3)
             print(marine_xy)
             new_coord = _move(marine_xy, direction)
-            time.sleep(.5)
+            time.sleep(0.05)
             #return FUNCTIONS.Move_screen("now", closest_mineral_xy)
             return FUNCTIONS.Move_screen("now", new_coord)
         else:
