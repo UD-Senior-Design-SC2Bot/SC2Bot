@@ -4,6 +4,7 @@ Run using "python terran_bot.py"
 
 from pysc2.agents import base_agent
 from pysc2.lib import actions, features, units
+from pysc2.lib.features import Player
 from pysc2.env import sc2_env
 
 from absl import app
@@ -11,16 +12,6 @@ from absl import app
 from src.helper import get_units_by_type, can_do, unit_type_is_selected, remaining_supply, random_unit
 
 import random
-
-# Features
-_PLAYER_RELATIVE = features.SCREEN_FEATURES.player_relative.index
-_UNIT_TYPE = features.SCREEN_FEATURES.unit_type.index
-
-# Unit IDs
-_TERRAN_BARRACKS = 21
-_TERRAN_COMMANDCENTER = 18
-_TERRAN_SUPPLYDEPOT = 19
-_TERRAN_SCV = 45
 
 # Parameters
 MAX_WORKERS = 15
@@ -30,6 +21,7 @@ class TerranAgent(base_agent.BaseAgent):
     def __init__(self):
         super(TerranAgent, self).__init__()
         self.attack_coordinates = None
+        self.selected_idle_worker = False
 
     def init_atk_coordinates(self, obs):
         player_y, player_x = (
@@ -40,7 +32,7 @@ class TerranAgent(base_agent.BaseAgent):
         if xmean <= 31 and ymean <= 31:
             self.attack_coordinates = (49, 49)
         else:
-            self.attack_coordinates = (12, 16)
+            self.attack_coordinates = (13, 17)
 
     def step(self, obs):
         super(TerranAgent, self).step(obs)
@@ -62,10 +54,23 @@ class TerranAgent(base_agent.BaseAgent):
                     x = random.randint(0, 83)
                     y = random.randint(0, 83)
 
+                    #actions.FUNCTIONS.Move_minimap("queued", (31, 31))
                     return actions.FUNCTIONS.Build_SupplyDepot_screen(
                         "now", (x, y))
         else:
             scvs = get_units_by_type(obs, units.Terran.SCV)
+            if self.selected_idle_worker:
+                minerals = get_units_by_type(obs, units.Neutral.MineralField)
+                if len(minerals) > 0:
+                    mineral = random_unit(minerals)
+
+                    self.selected_idle_worker = False
+                    return actions.FUNCTIONS.Harvest_Gather_screen(
+                        "now", (mineral.x, mineral.y))
+            if obs.observation.player[Player.idle_worker_count] > 0:
+                self.selected_idle_worker = True
+                return actions.FUNCTIONS.select_idle_worker("select")
+
             if len(scvs) < MAX_WORKERS:
                 if not unit_type_is_selected(obs, units.Terran.CommandCenter):
                     command_centers = get_units_by_type(
@@ -119,7 +124,7 @@ class TerranAgent(base_agent.BaseAgent):
                                                                               barrack.y))
                 else:
                     if can_do(obs, actions.FUNCTIONS.Train_Marine_quick.id):
-                        return actions.FUNCTIONS.Train_Marine_quick("now")
+                        return actions.FUNCTIONS.Train_Marine_quick("queued")
 
         return actions.FUNCTIONS.no_op()
 
@@ -131,7 +136,7 @@ def main(argv):
             with sc2_env.SC2Env(
                     map_name="Simple64",
                     players=[sc2_env.Agent(sc2_env.Race.terran),
-                             sc2_env.Bot(sc2_env.Race.random,
+                             sc2_env.Bot(sc2_env.Race.terran,
                                          sc2_env.Difficulty.very_easy)],
                     agent_interface_format=features.AgentInterfaceFormat(
                         feature_dimensions=features.Dimensions(
