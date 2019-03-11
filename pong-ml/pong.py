@@ -9,7 +9,6 @@ import random
 import pygame.surfarray as surfarray
 import matplotlib.pyplot as plt
 import data_collect
-import pickle
 
 pygame.init()
 
@@ -155,9 +154,6 @@ while done == False:
 
     pygame.display.update()
 
-f = open("data.txt", "wb")
-pickled_string = pickle.dumps(session_training_data)
-f.write(pickled_string)
-f.close()
+data_collect.serialize_data(session_training_data)
 
 pygame.quit()
