@@ -8,6 +8,8 @@ from sys import exit
 import random
 import pygame.surfarray as surfarray
 import matplotlib.pyplot as plt
+import data_collect
+import pickle
 
 pygame.init()
 
@@ -39,23 +41,41 @@ bar1_score, bar2_score = 0, 0
 clock = pygame.time.Clock()
 font = pygame.font.SysFont("calibri", 40)
 
+# ML objects
+session_training_data = []
+
+frame_num = 0
+
 done = False
 while done == False:       
+    frame_num += 1
+    '''
+    input_opcode:
+        0 = noop
+        1 = move up
+        2 = move down
+    '''
+    input_opcode = 0
     for event in pygame.event.get():  # User did something
         if event.type == pygame.QUIT:  # If user clicked close
             done = True  # Flag that we are done so we exit this loop
+        
         if event.type == KEYDOWN:
-            print("Moving!")
             if event.key == K_UP:
+                input_opcode = 1
                 bar1_move = -ai_speed
             elif event.key == K_DOWN:
+                input_opcode = 2
                 bar1_move = ai_speed
         elif event.type == KEYUP:
             if event.key == K_UP:
                 bar1_move = 0.
             elif event.key == K_DOWN:
                 bar1_move = 0.
-            
+        
+    session_training_data.append(data_collect.FrameData(frame_num, input_opcode, bar1_y, circle_x, circle_y))
+    
+    
     score1 = font.render(str(bar1_score), True, (255, 255, 255))
     score2 = font.render(str(bar2_score), True, (255, 255, 255))
 
@@ -128,11 +148,16 @@ while done == False:
         
     
 
-    image_data = pygame.surfarray.array3d(pygame.display.get_surface())
-    if done == True:
-        plt.imshow(image_data)
-        plt.show()
+    # image_data = pygame.surfarray.array3d(pygame.display.get_surface())
+    # if done == True:
+    #     plt.imshow(image_data)
+    #     plt.show()
 
     pygame.display.update()
-            
+
+f = open("data.txt", "wb")
+pickled_string = pickle.dumps(session_training_data)
+f.write(pickled_string)
+f.close()
+
 pygame.quit()
