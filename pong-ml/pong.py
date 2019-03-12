@@ -70,10 +70,7 @@ while done == False:
             if event.key == K_UP:
                 bar1_move = 0.
             elif event.key == K_DOWN:
-                bar1_move = 0.
-        
-    session_training_data.append(data_collect.FrameData(frame_num, input_opcode, bar1_y, circle_x, circle_y))
-    
+                bar1_move = 0.   
     
     score1 = font.render(str(bar1_score), True, (255, 255, 255))
     score2 = font.render(str(bar2_score), True, (255, 255, 255))
@@ -134,7 +131,7 @@ while done == False:
     elif circle_y >= 457.5:
         speed_y = -speed_y
         circle_y = 457.5
-            
+    
     # Win condition.
     if circle_x < 5.:
         bar2_score += 1
@@ -144,8 +141,9 @@ while done == False:
         bar1_score += 1
         circle_x, circle_y = 307.5, 232.5
         bar1_y, bar2_y = 215., 215.
-        
     
+    session_training_data.append(data_collect.FrameData(frame_num, input_opcode, bar1_y, circle_x, circle_y))
+
 
     # image_data = pygame.surfarray.array3d(pygame.display.get_surface())
     # if done == True:

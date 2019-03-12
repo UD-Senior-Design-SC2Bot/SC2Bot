@@ -18,7 +18,7 @@ class FrameData():
         self.ball_y = ball_y
     
     def __str__(self):
-        return "{} | {} | {} | {} | {}".format(self.frame_no, self.input_opcode, self.bar_y, self.ball_x, self.ball_y)
+        return "{} | {} | {} | {} | {} | {}".format(self.frame_no, self.input_opcode, self.bar_y, self.ball_x, self.ball_y)
 
 def serialize_data(data):
     current_time = time.strftime("%Y%m%d-%H%M%S")
@@ -29,4 +29,9 @@ def serialize_data(data):
     f = open(filename, "wb+")
     pickled_string = pickle.dumps(data)
     f.write(pickled_string)
-    f.close()   
+    f.close()
+
+def deserialize_data(filename):
+    f = open(filename, "rb")
+    data = f.read
+
