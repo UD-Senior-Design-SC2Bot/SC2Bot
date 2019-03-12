@@ -23,15 +23,22 @@ class FrameData():
 def serialize_data(data):
     current_time = time.strftime("%Y%m%d-%H%M%S")
     computer_name = os.environ['COMPUTERNAME']
-    filename = os.path.join(os.getcwd(), "collected_data", "{} - {}.dat".format(computer_name, current_time))
-    # filename = os.path.join(os.getcwd(), "collected_data", "haha.txt")
+    data_dir = os.path.join(os.getcwd(), "collected_data")
+    
+    if (not os.path.exists(data_dir)):
+        os.mkdir(data_dir)
 
+    filename = os.path.join(data_dir, "{} - {}.dat".format(computer_name, current_time))
+    
     f = open(filename, "wb+")
     pickled_string = pickle.dumps(data)
     f.write(pickled_string)
     f.close()
 
+
+
 def deserialize_data(filename):
     f = open(filename, "rb")
     data = f.read
+    f.close()
 
