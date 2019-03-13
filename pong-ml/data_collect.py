@@ -20,6 +20,9 @@ class FrameData():
         self.ball_x = ball_x
         self.ball_y = ball_y
     
+    def to_knn_tensor(self):
+        return [self.bar_y, self.ball_x, self.ball_y]
+
     def __str__(self):
         return "{} | {} | {} | {} | {}".format(self.frame_no, self.input_opcode, self.bar_y, self.ball_x, self.ball_y)
 
