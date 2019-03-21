@@ -6,22 +6,24 @@ import tensorflow as tf
 from tensorflow import keras
 import numpy as np
 
+game_x = 640
+game_y = 480
+
 def generate_model():
     # TODO - add parameters
-    dataset = data_collect.deserialize_data(os.path.join(os.getcwd(), "collected_data", "special", "up-only.dat"))
+    dataset = data_collect.deserialize_data(os.path.join(os.getcwd(), "collected_data", "special", "down-only.dat"))
 
     training_coords = []
     training_correct_inputs = []
 
     for frame in dataset:
-        tensor = np.array(frame.to_tensor())
+        tensor = np.array(frame.to_processed_tensor()) # Convert frame to a normalized tensor
         training_coords.append(tensor)
         training_correct_inputs.append(frame.input_opcode)
 
     # Convert to np arrays for tf
     training_coords = np.array(training_coords)
     training_correct_inputs = np.array(training_correct_inputs)
-
 
     model = keras.Sequential([
         keras.layers.Flatten(),

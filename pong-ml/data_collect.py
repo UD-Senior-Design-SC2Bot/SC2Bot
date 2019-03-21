@@ -23,6 +23,10 @@ class FrameData():
     def to_tensor(self):
         return [self.bar_y, self.ball_x, self.ball_y]
 
+    def to_processed_tensor(self):
+        # The game field is 640x480
+        return [self.bar_y/480, self.ball_x/640, self.ball_y/480]
+
     def __str__(self):
         return "{} | {} | {} | {} | {}".format(self.frame_no, self.input_opcode, self.bar_y, self.ball_x, self.ball_y)
 
