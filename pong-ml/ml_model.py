@@ -36,10 +36,18 @@ def generate_model(dataset):
 
     return model
 
-model = generate_model(datasets.load('down-only'))
 
-test_data = np.array([np.array([215.0, 341.5, 266.5]), np.array([10.0, 73.25, 440.75]), np.array([10.0, 81.5, 449.0])])
-predictions = model.predict(test_data)
+down_only_model = generate_model(datasets.load('down-only'))
+up_only_model = generate_model(datasets.load('up-only'))
+no_move_model = generate_model(datasets.load('no-move'))
+
+test_data = np.array([
+    np.array([0.1, 0.1, 0.1]), 
+    np.array([0.5, 0.5, 0.5]), 
+    np.array([0.7, 0.7, 0.7])])
+
+
+predictions = down_only_model.predict(test_data)
 
 print(predictions[0])
 print(predictions[1])
