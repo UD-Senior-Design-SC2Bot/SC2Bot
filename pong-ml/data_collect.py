@@ -59,7 +59,8 @@ def deserialize_all_data():
     for data_filename in os.listdir(data_dir):
         if data_filename.endswith(".dat"):
             data = deserialize_data(os.path.join(data_dir, data_filename))
-            all_data.append(data)
+            for frame in data:
+                all_data.append(frame)
 
     if (len(all_data) == 0):
         raise Exception("No data found")
@@ -69,7 +70,3 @@ def deserialize_all_data():
 def print_dataset(dataset):
     for frame in dataset:
         print(frame)
-
-def print_all_data(data):
-    for dataset in data:
-        print_dataset(dataset)
