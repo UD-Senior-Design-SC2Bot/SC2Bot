@@ -1,4 +1,5 @@
 import data_collect
+import datasets
 import os
 
 # tensorflow stuff
@@ -9,10 +10,7 @@ import numpy as np
 game_x = 640
 game_y = 480
 
-def generate_model():
-    # TODO - add parameters
-    dataset = data_collect.deserialize_data(os.path.join(os.getcwd(), "collected_data", "special", "down-only.dat"))
-
+def generate_model(dataset):
     training_coords = []
     training_correct_inputs = []
 
@@ -38,7 +36,7 @@ def generate_model():
 
     return model
 
-model = generate_model()
+model = generate_model(datasets.load('down-only'))
 
 test_data = np.array([np.array([215.0, 341.5, 266.5]), np.array([10.0, 73.25, 440.75]), np.array([10.0, 81.5, 449.0])])
 predictions = model.predict(test_data)
