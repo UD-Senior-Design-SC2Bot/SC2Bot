@@ -70,5 +70,7 @@ def print_all_data(data):
     for dataset in data:
         print_dataset(dataset)
 
-data = deserialize_data(os.path.join(os.getcwd(), "collected_data", "special", "up-only.dat"))
-print_dataset(data)
+# data = deserialize_data(os.path.join(os.getcwd(), "collected_data", "special", "up-only.dat"))
+# print_dataset(data)
+
+# print_all_data(deserialize_all_data())

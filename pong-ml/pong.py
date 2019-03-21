@@ -46,6 +46,7 @@ session_training_data = []
 frame_num = 0
 
 done = False
+input_opcode = 0
 while done == False:       
     frame_num += 1
     '''
@@ -54,13 +55,13 @@ while done == False:
         1 = move up
         2 = move down
     '''
-    input_opcode = 0
     for event in pygame.event.get():  # User did something
         if event.type == pygame.QUIT:  # If user clicked close
             done = True  # Flag that we are done so we exit this loop
         
         if event.type == KEYDOWN:
             if event.key == K_UP:
+                print("Hi!")
                 input_opcode = 1
                 bar1_move = -ai_speed
             elif event.key == K_DOWN:
@@ -68,8 +69,10 @@ while done == False:
                 bar1_move = ai_speed
         elif event.type == KEYUP:
             if event.key == K_UP:
+                input_opcode = 0
                 bar1_move = 0.
             elif event.key == K_DOWN:
+                input_opcode = 0
                 bar1_move = 0.   
     
     score1 = font.render(str(bar1_score), True, (255, 255, 255))
