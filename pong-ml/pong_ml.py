@@ -6,6 +6,7 @@ import pygame
 from pygame.locals import *
 from sys import exit
 import random
+from pong_agent import pong_agent
 import pygame.surfarray as surfarray
 import matplotlib.pyplot as plt
 import data_collect
@@ -13,6 +14,7 @@ import data_collect
 
 class pong:
     pygame.init()
+    agent = pong_agent()
 
     screen = pygame.display.set_mode((640, 480), 0, 32)
 
@@ -59,6 +61,11 @@ class pong:
                 1 = move up
                 2 = move down
             '''
+
+            self.agent.make_move()
+            time_passed = self.clock.tick(30)
+            time_sec = time_passed / 1000.0
+            ai_speed = self.speed_circ * time_sec
             for event in pygame.event.get():  # User did something
                 if event.type == pygame.QUIT:  # If user clicked close
                     done = True  # Flag that we are done so we exit this loop
@@ -94,12 +101,11 @@ class pong:
             self.bar1_y += self.bar1_move
                 
             # movement of circle
-            time_passed = self.clock.tick(30)
-            time_sec = time_passed / 1000.0
+            
                 
             self.circle_x += self.speed_x * time_sec
             self.circle_y += self.speed_y * time_sec
-            ai_speed = self.speed_circ * time_sec
+            
             
             # AI of the computer.
             if self.circle_x >= 305.:
