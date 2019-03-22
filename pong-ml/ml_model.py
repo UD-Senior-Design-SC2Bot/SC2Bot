@@ -48,14 +48,18 @@ def test_special_model(model, expected_val):
     # arbitrary test data - MAKE SURE IT'S NORMALIZED!!
     test_data = np.array([
         np.array([0.1, 0.1, 0.1]), 
+        np.array([0.2, 0.2, 0.2]),
+        np.array([0.3, 0.3, 0.3]),
+        np.array([0.4, 0.4, 0.4]),
         np.array([0.5, 0.5, 0.5]), 
+        np.array([0.6, 0.6, 0.6]), 
         np.array([0.7, 0.7, 0.7])])
     
     predictions = model.predict(test_data)
-    print("Predictions: {}. For most probable move, expected {} and got {}".format(predictions[0], paddle_movement[expected_val], paddle_movement[np.argmax(predictions[0])]))
-    print("Predictions: {}. For most probable move, expected {} and got {}".format(predictions[1], paddle_movement[expected_val], paddle_movement[np.argmax(predictions[1])]))
-    print("Predictions: {}. For most probable move, expected {} and got {}".format(predictions[2], paddle_movement[expected_val], paddle_movement[np.argmax(predictions[2])]))
-
+    for prediction in predictions:
+        print("Predictions: {}. For most probable move, expected {} and got {}" \
+            .format(prediction, paddle_movement[expected_val], paddle_movement[np.argmax(prediction)]))
+    
 
 # model for a paddle that never moves
 no_move_model = generate_model(datasets.load('no-move'))
