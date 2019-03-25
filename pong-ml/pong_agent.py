@@ -30,6 +30,7 @@ class MLPongAgent():
         self.model = model
     
     def get_next_move(self, frame_tensor):
-        prediction = np.argmax(self.model.predict(np.array([np.array(frame_tensor)]))[0])
-        print(prediction)
+        ptensor = self.model.predict(np.array([np.array(frame_tensor)]))[0]
+        prediction = np.argmax(ptensor)
+        print("{} <- {}".format(prediction, ptensor))
         return prediction
