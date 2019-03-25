@@ -29,10 +29,7 @@ class MLPongAgent():
         self.keyboard = Controller()
         self.model = model
     
-    def move(self, frame_tensor):
+    def get_next_move(self, frame_tensor):
         prediction = np.argmax(self.model.predict(np.array([np.array(frame_tensor)]))[0])
         print(prediction)
-        if (prediction == 2):
-            self.keyboard.press(Key.down)
-        elif (prediction == 1):
-            self.keyboard.press(Key.up)
+        return prediction

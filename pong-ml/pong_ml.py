@@ -17,7 +17,7 @@ import data_collect
 
 class pong:
     pygame.init()
-    model = ml_model.generate_model(datasets.load('up-only'))
+    model = ml_model.generate_model(datasets.load('all'))
     agent = MLPongAgent(model)
 
     screen = pygame.display.set_mode((640, 480), 0, 32)
@@ -65,31 +65,40 @@ class pong:
                 1 = move up
                 2 = move down
             '''
-            frame_tensor = data_collect.FrameData(self.frame_num, self.input_opcode, self.bar1_y, self.circle_x, self.circle_y).to_processed_tensor()
 
-            self.agent.move(frame_tensor)
+
             time_passed = self.clock.tick(30)
             time_sec = time_passed / 1000.0
             ai_speed = self.speed_circ * time_sec
+
+            frame_tensor = data_collect.FrameData(self.frame_num, self.input_opcode, self.bar1_y, self.circle_x, self.circle_y).to_processed_tensor()
+            move = self.agent.get_next_move(frame_tensor)
+
+            if (move == 1): # Up
+                input_opcode = 1
+                self.bar1_move = -ai_speed
+            elif (move == 2): # Down
+                input_opcode = 2
+                self.bar1_move = ai_speed
+
             for event in pygame.event.get():  # User did something
                 if event.type == pygame.QUIT:  # If user clicked close
                     done = True  # Flag that we are done so we exit this loop
                 
-                if event.type == KEYDOWN:
-                    if event.key == K_UP:
-                        print("Hi!")
-                        input_opcode = 1
-                        self.bar1_move = -ai_speed
-                    elif event.key == K_DOWN:
-                        input_opcode = 2
-                        self.bar1_move = ai_speed
-                elif event.type == KEYUP:
-                    if event.key == K_UP:
-                        input_opcode = 0
-                        self.bar1_move = 0.
-                    elif event.key == K_DOWN:
-                        input_opcode = 0
-                        self.bar1_move = 0.   
+                # if event.type == KEYDOWN:
+                #     if event.key == K_UP:
+                #         input_opcode = 1
+                #         self.bar1_move = -ai_speed
+                #     elif event.key == K_DOWN:
+                #         input_opcode = 2
+                #         self.bar1_move = ai_speed
+                # elif event.type == KEYUP:
+                #     if event.key == K_UP:
+                #         input_opcode = 0
+                #         self.bar1_move = 0.
+                #     elif event.key == K_DOWN:
+                #         input_opcode = 0
+                #         self.bar1_move = 0.   
             
             score1 = self.font.render(str(self.bar1_score), True, (255, 255, 255))
             score2 = self.font.render(str(self.bar2_score), True, (255, 255, 255))
@@ -160,8 +169,8 @@ class pong:
                 self.circle_x, self.circle_y = 307.5, 232.5
                 self.bar1_y, self.bar2_y = 215., 215.
             
-            self.session_training_data.append(data_collect.FrameData(self.frame_num, self.input_opcode, self.bar1_y, self.circle_x, self.circle_y))
-
+            # self.session_training_data.append(data_collect.FrameData(self.frame_num, self.input_opcode, self.bar1_y, self.circle_x, self.circle_y))
+            self.bar1_move = 0.
 
             # image_data = pygame.surfarray.array3d(pygame.display.get_surface())
             # if done == True:
@@ -173,6 +182,6 @@ class pong:
 game = pong()
 game.play(game.done)
 
-data_collect.serialize_data(game.session_training_data)
+# data_collect.serialize_data(game.session_training_data)
 
 pygame.quit()
