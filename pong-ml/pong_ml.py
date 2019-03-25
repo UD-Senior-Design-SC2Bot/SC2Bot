@@ -7,6 +7,9 @@ from pygame.locals import *
 from sys import exit
 import random
 from pong_agent import pong_agent
+from pong_agent import MLPongAgent
+import ml_model
+import datasets
 import pygame.surfarray as surfarray
 import matplotlib.pyplot as plt
 import data_collect
@@ -14,7 +17,8 @@ import data_collect
 
 class pong:
     pygame.init()
-    agent = pong_agent()
+    model = ml_model.generate_model(datasets.load('up-only'))
+    agent = MLPongAgent(model)
 
     screen = pygame.display.set_mode((640, 480), 0, 32)
 
@@ -61,8 +65,9 @@ class pong:
                 1 = move up
                 2 = move down
             '''
+            frame_tensor = data_collect.FrameData(self.frame_num, self.input_opcode, self.bar1_y, self.circle_x, self.circle_y).to_processed_tensor()
 
-            self.agent.make_move()
+            self.agent.move(frame_tensor)
             time_passed = self.clock.tick(30)
             time_sec = time_passed / 1000.0
             ai_speed = self.speed_circ * time_sec

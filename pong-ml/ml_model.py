@@ -60,7 +60,7 @@ def test_special_model(model, expected_val):
         print("Predictions: {}. For most probable move, expected {} and got {}" \
             .format(prediction, paddle_movement[expected_val], paddle_movement[np.argmax(prediction)]))
     
-
+'''
 # model for a paddle that never moves
 no_move_model = generate_model(datasets.load('no-move'))
 # model for a paddle that only moves up
@@ -71,3 +71,4 @@ down_only_model = generate_model(datasets.load('down-only'))
 test_special_model(no_move_model, 0)
 test_special_model(up_only_model, 1)
 test_special_model(down_only_model, 2)
+'''

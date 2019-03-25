@@ -1,10 +1,8 @@
-from pygame.constants import K_DOWN  
 from pynput.keyboard import Key, Controller 
-
+import numpy as np
 
 class pong_agent:  
     # Simple class that loads the model and simulates player action
-    
 
     def __init__(self):
         self.keyboard = Controller()
@@ -25,3 +23,16 @@ class pong_agent:
         self.last_bar2_score = bar2_score  
         return score_change
  
+
+class MLPongAgent():
+    def __init__(self, model):
+        self.keyboard = Controller()
+        self.model = model
+    
+    def move(self, frame_tensor):
+        prediction = np.argmax(self.model.predict(np.array([np.array(frame_tensor)]))[0])
+        print(prediction)
+        if (prediction == 2):
+            self.keyboard.press(Key.down)
+        elif (prediction == 1):
+            self.keyboard.press(Key.up)
