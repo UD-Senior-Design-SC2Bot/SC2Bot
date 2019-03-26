@@ -2,6 +2,7 @@ import datetime
 import os
 import pickle
 import time
+import socket
 
 
 data_dir = os.path.join(os.getcwd(), "collected_data")
@@ -19,7 +20,7 @@ class FrameData():
         self.bar_y = bar_y
         self.ball_x = ball_x
         self.ball_y = ball_y
-    
+
     def to_tensor(self):
         return [self.bar_y, self.ball_x, self.ball_y]
 
@@ -32,14 +33,14 @@ class FrameData():
 
 def generate_unique_filename():
     current_time = time.strftime("%m-%d-%Y %H hr - %M m - %S s")
-    computer_name = os.environ['COMPUTERNAME']
+    computer_name = socket.gethostname()
     filename = os.path.join(data_dir, "{} - {}.dat".format(computer_name, current_time))
     return filename
 
 def serialize_data(data):
     if (not os.path.exists(data_dir)):
         os.mkdir(data_dir)
-    
+
     with open(generate_unique_filename(), "wb+") as session_data_file:
         pickle.dump(data, session_data_file)
 
@@ -53,7 +54,7 @@ def deserialize_all_data():
     all_data = []
 
     if (not os.path.exists(data_dir)):
-        raise Exception("Data directory does not exist " + 
+        raise Exception("Data directory does not exist " +
             "- there is no data to read.")
 
     for data_filename in os.listdir(data_dir):
@@ -64,7 +65,7 @@ def deserialize_all_data():
 
     if (len(all_data) == 0):
         raise Exception("No data found")
-    
+
     return all_data
 
 def print_dataset(dataset):
