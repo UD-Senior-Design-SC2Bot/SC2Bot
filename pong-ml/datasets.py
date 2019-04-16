@@ -13,5 +13,3 @@ def load(name):
         dataset = data_collect.deserialize_all_data()
 
     return dataset
-
-print(load('up-only'))
