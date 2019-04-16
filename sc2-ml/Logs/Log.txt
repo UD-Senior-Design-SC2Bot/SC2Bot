@@ -1,0 +1,5721 @@
+********** Logged on 2018-10-23 15:03:48.982264 **********
+-- Step 1
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 2
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 3
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 4
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 5
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 6
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 7
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 8
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 9
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 10
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 11
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 12
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 13
+	 Minerals:     50
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 14
+	 Minerals:     55
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 15
+	 Minerals:     55
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 16
+	 Minerals:     60
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 17
+	 Minerals:     65
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 18
+	 Minerals:     65
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 19
+	 Minerals:     75
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 20
+	 Minerals:     75
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 21
+	 Minerals:     90
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 22
+	 Minerals:     95
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 23
+	 Minerals:     105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 24
+	 Minerals:     105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 25
+	 Minerals:     110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 26
+	 Minerals:     110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 27
+	 Minerals:     110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 28
+	 Minerals:     110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 29
+	 Minerals:     110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 30
+	 Minerals:     115
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 31
+	 Minerals:     120
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 32
+	 Minerals:     130
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 33
+	 Minerals:     135
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 34
+	 Minerals:     140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 35
+	 Minerals:     140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 36
+	 Minerals:     150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 37
+	 Minerals:     155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 38
+	 Minerals:     165
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 39
+	 Minerals:     170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 40
+	 Minerals:     170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 41
+	 Minerals:     170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 42
+	 Minerals:     170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 43
+	 Minerals:     170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 44
+	 Minerals:     170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 45
+	 Minerals:     175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 46
+	 Minerals:     185
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 47
+	 Minerals:     195
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 48
+	 Minerals:     200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 49
+	 Minerals:     200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 50
+	 Minerals:     200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 51
+	 Minerals:     200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 52
+	 Minerals:     220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 53
+	 Minerals:     225
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 54
+	 Minerals:     230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 55
+	 Minerals:     230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 56
+	 Minerals:     230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 57
+	 Minerals:     230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 58
+	 Minerals:     230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 59
+	 Minerals:     235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 60
+	 Minerals:     240
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 61
+	 Minerals:     250
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 62
+	 Minerals:     255
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 63
+	 Minerals:     260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 64
+	 Minerals:     260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 65
+	 Minerals:     260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 66
+	 Minerals:     265
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 67
+	 Minerals:     280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 68
+	 Minerals:     285
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 69
+	 Minerals:     290
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 70
+	 Minerals:     290
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 71
+	 Minerals:     290
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 72
+	 Minerals:     290
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 73
+	 Minerals:     295
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 74
+	 Minerals:     300
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 75
+	 Minerals:     305
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 76
+	 Minerals:     310
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 77
+	 Minerals:     315
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 78
+	 Minerals:     320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 79
+	 Minerals:     320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 80
+	 Minerals:     325
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 81
+	 Minerals:     325
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 82
+	 Minerals:     330
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 83
+	 Minerals:     340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 84
+	 Minerals:     345
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 85
+	 Minerals:     350
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 86
+	 Minerals:     355
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 87
+	 Minerals:     355
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 88
+	 Minerals:     365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 89
+	 Minerals:     365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 90
+	 Minerals:     365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 91
+	 Minerals:     370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 92
+	 Minerals:     370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 93
+	 Minerals:     385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 94
+	 Minerals:     385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 95
+	 Minerals:     385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 96
+	 Minerals:     385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 97
+	 Minerals:     390
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 98
+	 Minerals:     390
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 99
+	 Minerals:     405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 100
+	 Minerals:     415
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 101
+	 Minerals:     420
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 102
+	 Minerals:     425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 103
+	 Minerals:     425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 104
+	 Minerals:     425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 105
+	 Minerals:     425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 106
+	 Minerals:     430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 107
+	 Minerals:     435
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 108
+	 Minerals:     445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 109
+	 Minerals:     445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 110
+	 Minerals:     445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 111
+	 Minerals:     445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 112
+	 Minerals:     450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 113
+	 Minerals:     455
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 114
+	 Minerals:     470
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 115
+	 Minerals:     485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 116
+	 Minerals:     485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 117
+	 Minerals:     485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 118
+	 Minerals:     485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 119
+	 Minerals:     485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 120
+	 Minerals:     485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 121
+	 Minerals:     495
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 122
+	 Minerals:     495
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 123
+	 Minerals:     500
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 124
+	 Minerals:     505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 125
+	 Minerals:     505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 126
+	 Minerals:     505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 127
+	 Minerals:     515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 128
+	 Minerals:     515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 129
+	 Minerals:     530
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 130
+	 Minerals:     540
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 131
+	 Minerals:     545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 132
+	 Minerals:     545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 133
+	 Minerals:     545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 134
+	 Minerals:     550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 135
+	 Minerals:     550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 136
+	 Minerals:     555
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 137
+	 Minerals:     555
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 138
+	 Minerals:     560
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 139
+	 Minerals:     565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 140
+	 Minerals:     570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 141
+	 Minerals:     575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 142
+	 Minerals:     585
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 143
+	 Minerals:     585
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 144
+	 Minerals:     590
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 145
+	 Minerals:     600
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 146
+	 Minerals:     605
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 147
+	 Minerals:     605
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 148
+	 Minerals:     610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 149
+	 Minerals:     610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 150
+	 Minerals:     610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 151
+	 Minerals:     615
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 152
+	 Minerals:     615
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 153
+	 Minerals:     620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 154
+	 Minerals:     625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 155
+	 Minerals:     630
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 156
+	 Minerals:     645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 157
+	 Minerals:     645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 158
+	 Minerals:     645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 159
+	 Minerals:     650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 160
+	 Minerals:     650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 161
+	 Minerals:     665
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 162
+	 Minerals:     670
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 163
+	 Minerals:     670
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 164
+	 Minerals:     670
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 165
+	 Minerals:     675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 166
+	 Minerals:     675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 167
+	 Minerals:     675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 168
+	 Minerals:     680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 169
+	 Minerals:     695
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 170
+	 Minerals:     695
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 171
+	 Minerals:     705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 172
+	 Minerals:     705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 173
+	 Minerals:     705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 174
+	 Minerals:     710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 175
+	 Minerals:     715
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 176
+	 Minerals:     715
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 177
+	 Minerals:     730
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 178
+	 Minerals:     730
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 179
+	 Minerals:     730
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 180
+	 Minerals:     735
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 181
+	 Minerals:     740
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 182
+	 Minerals:     740
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 183
+	 Minerals:     750
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 184
+	 Minerals:     755
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 185
+	 Minerals:     755
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 186
+	 Minerals:     765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 187
+	 Minerals:     765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 188
+	 Minerals:     765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 189
+	 Minerals:     770
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 190
+	 Minerals:     775
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 191
+	 Minerals:     775
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 192
+	 Minerals:     790
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 193
+	 Minerals:     790
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 194
+	 Minerals:     790
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 195
+	 Minerals:     800
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 196
+	 Minerals:     805
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 197
+	 Minerals:     810
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 198
+	 Minerals:     810
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 199
+	 Minerals:     815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 200
+	 Minerals:     815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 201
+	 Minerals:     820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 202
+	 Minerals:     830
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 203
+	 Minerals:     830
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 204
+	 Minerals:     830
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 205
+	 Minerals:     835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 206
+	 Minerals:     835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 207
+	 Minerals:     835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 208
+	 Minerals:     855
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 209
+	 Minerals:     855
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 210
+	 Minerals:     870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 211
+	 Minerals:     870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 212
+	 Minerals:     870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 213
+	 Minerals:     870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 214
+	 Minerals:     875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 215
+	 Minerals:     875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 216
+	 Minerals:     885
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 217
+	 Minerals:     890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 218
+	 Minerals:     890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 219
+	 Minerals:     890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 220
+	 Minerals:     895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 221
+	 Minerals:     895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 222
+	 Minerals:     900
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 223
+	 Minerals:     920
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 224
+	 Minerals:     925
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 225
+	 Minerals:     930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 226
+	 Minerals:     930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 227
+	 Minerals:     930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 228
+	 Minerals:     930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 229
+	 Minerals:     935
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 230
+	 Minerals:     940
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 231
+	 Minerals:     945
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 232
+	 Minerals:     945
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 233
+	 Minerals:     950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 234
+	 Minerals:     950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 235
+	 Minerals:     955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 236
+	 Minerals:     960
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 237
+	 Minerals:     965
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 238
+	 Minerals:     975
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 239
+	 Minerals:     985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 240
+	 Minerals:     990
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 241
+	 Minerals:     990
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 242
+	 Minerals:     990
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 243
+	 Minerals:     995
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 244
+	 Minerals:     1000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 245
+	 Minerals:     1000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 246
+	 Minerals:     1005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 247
+	 Minerals:     1005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 248
+	 Minerals:     1005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 249
+	 Minerals:     1015
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 250
+	 Minerals:     1025
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 251
+	 Minerals:     1030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 252
+	 Minerals:     1030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 253
+	 Minerals:     1030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 254
+	 Minerals:     1040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 255
+	 Minerals:     1050
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 256
+	 Minerals:     1050
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 257
+	 Minerals:     1055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 258
+	 Minerals:     1055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 259
+	 Minerals:     1055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 260
+	 Minerals:     1065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 261
+	 Minerals:     1065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 262
+	 Minerals:     1065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 263
+	 Minerals:     1070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 264
+	 Minerals:     1080
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 265
+	 Minerals:     1090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 266
+	 Minerals:     1090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 267
+	 Minerals:     1090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 268
+	 Minerals:     1090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 269
+	 Minerals:     1095
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 270
+	 Minerals:     1110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 271
+	 Minerals:     1115
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 272
+	 Minerals:     1115
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 273
+	 Minerals:     1115
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 274
+	 Minerals:     1115
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 275
+	 Minerals:     1125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 276
+	 Minerals:     1125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 277
+	 Minerals:     1135
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 278
+	 Minerals:     1140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 279
+	 Minerals:     1140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 280
+	 Minerals:     1150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 281
+	 Minerals:     1150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 282
+	 Minerals:     1150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 283
+	 Minerals:     1150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 284
+	 Minerals:     1165
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 285
+	 Minerals:     1165
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 286
+	 Minerals:     1175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 287
+	 Minerals:     1175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 288
+	 Minerals:     1175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 289
+	 Minerals:     1175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 290
+	 Minerals:     1190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 291
+	 Minerals:     1195
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 292
+	 Minerals:     1200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 293
+	 Minerals:     1200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 294
+	 Minerals:     1200
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 295
+	 Minerals:     1205
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 296
+	 Minerals:     1210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 297
+	 Minerals:     1210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 298
+	 Minerals:     1215
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 299
+	 Minerals:     1220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 300
+	 Minerals:     1225
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 301
+	 Minerals:     1235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 302
+	 Minerals:     1235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 303
+	 Minerals:     1235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 304
+	 Minerals:     1245
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 305
+	 Minerals:     1255
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 306
+	 Minerals:     1260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 307
+	 Minerals:     1260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 308
+	 Minerals:     1260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 309
+	 Minerals:     1260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 310
+	 Minerals:     1260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 311
+	 Minerals:     1275
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 312
+	 Minerals:     1275
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 313
+	 Minerals:     1275
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 314
+	 Minerals:     1280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 315
+	 Minerals:     1285
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 316
+	 Minerals:     1285
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 317
+	 Minerals:     1300
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 318
+	 Minerals:     1305
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 319
+	 Minerals:     1310
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 320
+	 Minerals:     1320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 321
+	 Minerals:     1320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 322
+	 Minerals:     1320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 323
+	 Minerals:     1320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 324
+	 Minerals:     1320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 325
+	 Minerals:     1325
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 326
+	 Minerals:     1335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 327
+	 Minerals:     1335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 328
+	 Minerals:     1335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 329
+	 Minerals:     1340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 330
+	 Minerals:     1340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 331
+	 Minerals:     1355
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 332
+	 Minerals:     1365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 333
+	 Minerals:     1370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 334
+	 Minerals:     1370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 335
+	 Minerals:     1380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 336
+	 Minerals:     1380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 337
+	 Minerals:     1380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 338
+	 Minerals:     1380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 339
+	 Minerals:     1385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 340
+	 Minerals:     1385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 341
+	 Minerals:     1390
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 342
+	 Minerals:     1395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 343
+	 Minerals:     1395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 344
+	 Minerals:     1400
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 345
+	 Minerals:     1410
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 346
+	 Minerals:     1415
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 347
+	 Minerals:     1420
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 348
+	 Minerals:     1430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 349
+	 Minerals:     1430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 350
+	 Minerals:     1440
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 351
+	 Minerals:     1440
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 352
+	 Minerals:     1445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 353
+	 Minerals:     1445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 354
+	 Minerals:     1445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 355
+	 Minerals:     1445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 356
+	 Minerals:     1450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 357
+	 Minerals:     1450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 358
+	 Minerals:     1465
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 359
+	 Minerals:     1470
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 360
+	 Minerals:     1475
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 361
+	 Minerals:     1480
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 362
+	 Minerals:     1480
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 363
+	 Minerals:     1480
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 364
+	 Minerals:     1490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 365
+	 Minerals:     1495
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 366
+	 Minerals:     1505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 367
+	 Minerals:     1505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 368
+	 Minerals:     1505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 369
+	 Minerals:     1505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 370
+	 Minerals:     1505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 371
+	 Minerals:     1510
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 372
+	 Minerals:     1520
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 373
+	 Minerals:     1525
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 374
+	 Minerals:     1535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 375
+	 Minerals:     1535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 376
+	 Minerals:     1535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 377
+	 Minerals:     1540
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 378
+	 Minerals:     1540
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 379
+	 Minerals:     1555
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 380
+	 Minerals:     1560
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 381
+	 Minerals:     1565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 382
+	 Minerals:     1565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 383
+	 Minerals:     1565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 384
+	 Minerals:     1565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 385
+	 Minerals:     1570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 386
+	 Minerals:     1575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 387
+	 Minerals:     1585
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 388
+	 Minerals:     1585
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 389
+	 Minerals:     1595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 390
+	 Minerals:     1595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 391
+	 Minerals:     1595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 392
+	 Minerals:     1600
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 393
+	 Minerals:     1605
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 394
+	 Minerals:     1610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 395
+	 Minerals:     1620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 396
+	 Minerals:     1625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 397
+	 Minerals:     1625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 398
+	 Minerals:     1625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 399
+	 Minerals:     1635
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 400
+	 Minerals:     1635
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 401
+	 Minerals:     1640
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 402
+	 Minerals:     1645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 403
+	 Minerals:     1650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 404
+	 Minerals:     1655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 405
+	 Minerals:     1655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 406
+	 Minerals:     1655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 407
+	 Minerals:     1665
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 408
+	 Minerals:     1665
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 409
+	 Minerals:     1670
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 410
+	 Minerals:     1680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 411
+	 Minerals:     1685
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 412
+	 Minerals:     1690
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 413
+	 Minerals:     1695
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 414
+	 Minerals:     1695
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 415
+	 Minerals:     1700
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 416
+	 Minerals:     1700
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 417
+	 Minerals:     1705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 418
+	 Minerals:     1710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 419
+	 Minerals:     1710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 420
+	 Minerals:     1720
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 421
+	 Minerals:     1720
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 422
+	 Minerals:     1720
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 423
+	 Minerals:     1725
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 424
+	 Minerals:     1730
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 425
+	 Minerals:     1730
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 426
+	 Minerals:     1755
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 427
+	 Minerals:     1755
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 428
+	 Minerals:     1760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 429
+	 Minerals:     1760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 430
+	 Minerals:     1760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 431
+	 Minerals:     1760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 432
+	 Minerals:     1765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 433
+	 Minerals:     1770
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 434
+	 Minerals:     1775
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 435
+	 Minerals:     1775
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 436
+	 Minerals:     1780
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 437
+	 Minerals:     1780
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 438
+	 Minerals:     1785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 439
+	 Minerals:     1795
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 440
+	 Minerals:     1800
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 441
+	 Minerals:     1815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 442
+	 Minerals:     1820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 443
+	 Minerals:     1820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 444
+	 Minerals:     1820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 445
+	 Minerals:     1820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 446
+	 Minerals:     1820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 447
+	 Minerals:     1825
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 448
+	 Minerals:     1835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 449
+	 Minerals:     1835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 450
+	 Minerals:     1835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 451
+	 Minerals:     1840
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 452
+	 Minerals:     1840
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 453
+	 Minerals:     1845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 454
+	 Minerals:     1860
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 455
+	 Minerals:     1860
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 456
+	 Minerals:     1870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 457
+	 Minerals:     1880
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 458
+	 Minerals:     1880
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 459
+	 Minerals:     1880
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 460
+	 Minerals:     1880
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 461
+	 Minerals:     1885
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 462
+	 Minerals:     1890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 463
+	 Minerals:     1895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 464
+	 Minerals:     1895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 465
+	 Minerals:     1895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 466
+	 Minerals:     1900
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 467
+	 Minerals:     1910
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 468
+	 Minerals:     1910
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 469
+	 Minerals:     1925
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 470
+	 Minerals:     1925
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 471
+	 Minerals:     1925
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 472
+	 Minerals:     1930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 473
+	 Minerals:     1940
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 474
+	 Minerals:     1940
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 475
+	 Minerals:     1945
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 476
+	 Minerals:     1945
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 477
+	 Minerals:     1950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 478
+	 Minerals:     1955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 479
+	 Minerals:     1955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 480
+	 Minerals:     1960
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 481
+	 Minerals:     1965
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 482
+	 Minerals:     1970
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 483
+	 Minerals:     1975
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 484
+	 Minerals:     1985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 485
+	 Minerals:     1985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 486
+	 Minerals:     1985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 487
+	 Minerals:     1990
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 488
+	 Minerals:     2000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 489
+	 Minerals:     2005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 490
+	 Minerals:     2005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 491
+	 Minerals:     2005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 492
+	 Minerals:     2005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 493
+	 Minerals:     2020
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 494
+	 Minerals:     2020
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 495
+	 Minerals:     2025
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 496
+	 Minerals:     2030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 497
+	 Minerals:     2030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 498
+	 Minerals:     2040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 499
+	 Minerals:     2040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 500
+	 Minerals:     2045
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 501
+	 Minerals:     2045
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 502
+	 Minerals:     2055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 503
+	 Minerals:     2055
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 504
+	 Minerals:     2065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 505
+	 Minerals:     2065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 506
+	 Minerals:     2065
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 507
+	 Minerals:     2070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 508
+	 Minerals:     2085
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 509
+	 Minerals:     2085
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 510
+	 Minerals:     2090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 511
+	 Minerals:     2090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 512
+	 Minerals:     2090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 513
+	 Minerals:     2100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 514
+	 Minerals:     2100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 515
+	 Minerals:     2105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 516
+	 Minerals:     2110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 517
+	 Minerals:     2115
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 518
+	 Minerals:     2115
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 519
+	 Minerals:     2125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 520
+	 Minerals:     2130
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 521
+	 Minerals:     2130
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 522
+	 Minerals:     2140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 523
+	 Minerals:     2145
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 524
+	 Minerals:     2150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 525
+	 Minerals:     2150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 526
+	 Minerals:     2150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 527
+	 Minerals:     2150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 528
+	 Minerals:     2155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 529
+	 Minerals:     2165
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 530
+	 Minerals:     2170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 531
+	 Minerals:     2170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 532
+	 Minerals:     2175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 533
+	 Minerals:     2175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 534
+	 Minerals:     2180
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 535
+	 Minerals:     2195
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 536
+	 Minerals:     2195
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 537
+	 Minerals:     2205
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 538
+	 Minerals:     2210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 539
+	 Minerals:     2210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 540
+	 Minerals:     2210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 541
+	 Minerals:     2210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 542
+	 Minerals:     2210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 543
+	 Minerals:     2220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 544
+	 Minerals:     2220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 545
+	 Minerals:     2225
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 546
+	 Minerals:     2230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 547
+	 Minerals:     2240
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 548
+	 Minerals:     2240
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 549
+	 Minerals:     2245
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 550
+	 Minerals:     2250
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 551
+	 Minerals:     2260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 552
+	 Minerals:     2265
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 553
+	 Minerals:     2270
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 554
+	 Minerals:     2270
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 555
+	 Minerals:     2270
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 556
+	 Minerals:     2270
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 557
+	 Minerals:     2275
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 558
+	 Minerals:     2280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 559
+	 Minerals:     2280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 560
+	 Minerals:     2285
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 561
+	 Minerals:     2295
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 562
+	 Minerals:     2300
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 563
+	 Minerals:     2305
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 564
+	 Minerals:     2305
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 565
+	 Minerals:     2310
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 566
+	 Minerals:     2320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 567
+	 Minerals:     2325
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 568
+	 Minerals:     2330
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 569
+	 Minerals:     2330
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 570
+	 Minerals:     2335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 571
+	 Minerals:     2335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 572
+	 Minerals:     2335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 573
+	 Minerals:     2340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 574
+	 Minerals:     2345
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 575
+	 Minerals:     2345
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 576
+	 Minerals:     2355
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 577
+	 Minerals:     2360
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 578
+	 Minerals:     2370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 579
+	 Minerals:     2370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 580
+	 Minerals:     2370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 581
+	 Minerals:     2370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 582
+	 Minerals:     2385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 583
+	 Minerals:     2390
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 584
+	 Minerals:     2395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 585
+	 Minerals:     2395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 586
+	 Minerals:     2395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 587
+	 Minerals:     2395
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 588
+	 Minerals:     2405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 589
+	 Minerals:     2405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 590
+	 Minerals:     2410
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 591
+	 Minerals:     2415
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 592
+	 Minerals:     2425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 593
+	 Minerals:     2430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 594
+	 Minerals:     2430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 595
+	 Minerals:     2430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 596
+	 Minerals:     2430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 597
+	 Minerals:     2445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 598
+	 Minerals:     2450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 599
+	 Minerals:     2455
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 600
+	 Minerals:     2455
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 601
+	 Minerals:     2460
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 602
+	 Minerals:     2460
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 603
+	 Minerals:     2465
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 604
+	 Minerals:     2470
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 605
+	 Minerals:     2475
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 606
+	 Minerals:     2475
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 607
+	 Minerals:     2485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 608
+	 Minerals:     2490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 609
+	 Minerals:     2490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 610
+	 Minerals:     2490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 611
+	 Minerals:     2495
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 612
+	 Minerals:     2500
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 613
+	 Minerals:     2510
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 614
+	 Minerals:     2515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 615
+	 Minerals:     2520
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 616
+	 Minerals:     2520
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 617
+	 Minerals:     2530
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 618
+	 Minerals:     2530
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 619
+	 Minerals:     2535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 620
+	 Minerals:     2535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 621
+	 Minerals:     2535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 622
+	 Minerals:     2535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 623
+	 Minerals:     2550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 624
+	 Minerals:     2550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 625
+	 Minerals:     2555
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 626
+	 Minerals:     2555
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 627
+	 Minerals:     2560
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 628
+	 Minerals:     2575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 629
+	 Minerals:     2580
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 630
+	 Minerals:     2580
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 631
+	 Minerals:     2585
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 632
+	 Minerals:     2590
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 633
+	 Minerals:     2595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 634
+	 Minerals:     2595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 635
+	 Minerals:     2595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 636
+	 Minerals:     2595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 637
+	 Minerals:     2595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 638
+	 Minerals:     2615
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 639
+	 Minerals:     2615
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 640
+	 Minerals:     2615
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 641
+	 Minerals:     2620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 642
+	 Minerals:     2625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 643
+	 Minerals:     2625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 644
+	 Minerals:     2645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 645
+	 Minerals:     2645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 646
+	 Minerals:     2650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 647
+	 Minerals:     2655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 648
+	 Minerals:     2655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 649
+	 Minerals:     2655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 650
+	 Minerals:     2655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 651
+	 Minerals:     2655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 652
+	 Minerals:     2660
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 653
+	 Minerals:     2670
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 654
+	 Minerals:     2675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 655
+	 Minerals:     2680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 656
+	 Minerals:     2685
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 657
+	 Minerals:     2685
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 658
+	 Minerals:     2690
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 659
+	 Minerals:     2695
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 660
+	 Minerals:     2710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 661
+	 Minerals:     2710
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 662
+	 Minerals:     2715
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 663
+	 Minerals:     2715
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 664
+	 Minerals:     2715
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 665
+	 Minerals:     2715
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 666
+	 Minerals:     2720
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 667
+	 Minerals:     2720
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 668
+	 Minerals:     2725
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 669
+	 Minerals:     2740
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 670
+	 Minerals:     2740
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 671
+	 Minerals:     2740
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 672
+	 Minerals:     2750
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 673
+	 Minerals:     2750
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 674
+	 Minerals:     2760
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 675
+	 Minerals:     2770
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 676
+	 Minerals:     2770
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 677
+	 Minerals:     2775
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 678
+	 Minerals:     2775
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 679
+	 Minerals:     2780
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 680
+	 Minerals:     2780
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 681
+	 Minerals:     2780
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 682
+	 Minerals:     2785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 683
+	 Minerals:     2785
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 684
+	 Minerals:     2795
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 685
+	 Minerals:     2805
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 686
+	 Minerals:     2805
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 687
+	 Minerals:     2815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 688
+	 Minerals:     2815
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 689
+	 Minerals:     2820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 690
+	 Minerals:     2820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 691
+	 Minerals:     2830
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 692
+	 Minerals:     2835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 693
+	 Minerals:     2840
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 694
+	 Minerals:     2840
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 695
+	 Minerals:     2840
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 696
+	 Minerals:     2845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 697
+	 Minerals:     2845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 698
+	 Minerals:     2845
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 699
+	 Minerals:     2855
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 700
+	 Minerals:     2865
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 701
+	 Minerals:     2870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 702
+	 Minerals:     2875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 703
+	 Minerals:     2875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 704
+	 Minerals:     2875
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 705
+	 Minerals:     2880
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 706
+	 Minerals:     2890
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 707
+	 Minerals:     2900
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 708
+	 Minerals:     2900
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 709
+	 Minerals:     2905
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 710
+	 Minerals:     2905
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 711
+	 Minerals:     2905
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 712
+	 Minerals:     2905
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 713
+	 Minerals:     2910
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 714
+	 Minerals:     2920
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 715
+	 Minerals:     2925
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 716
+	 Minerals:     2930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 717
+	 Minerals:     2935
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 718
+	 Minerals:     2935
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 719
+	 Minerals:     2935
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 720
+	 Minerals:     2945
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 721
+	 Minerals:     2945
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 722
+	 Minerals:     2955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 723
+	 Minerals:     2965
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 724
+	 Minerals:     2965
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 725
+	 Minerals:     2965
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 726
+	 Minerals:     2970
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 727
+	 Minerals:     2970
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 728
+	 Minerals:     2975
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 729
+	 Minerals:     2980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 730
+	 Minerals:     2985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 731
+	 Minerals:     2985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 732
+	 Minerals:     2995
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 733
+	 Minerals:     2995
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 734
+	 Minerals:     3000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 735
+	 Minerals:     3005
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 736
+	 Minerals:     3010
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 737
+	 Minerals:     3015
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 738
+	 Minerals:     3025
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 739
+	 Minerals:     3025
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 740
+	 Minerals:     3030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 741
+	 Minerals:     3030
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 742
+	 Minerals:     3035
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 743
+	 Minerals:     3035
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 744
+	 Minerals:     3040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 745
+	 Minerals:     3040
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 746
+	 Minerals:     3045
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 747
+	 Minerals:     3060
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 748
+	 Minerals:     3060
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 749
+	 Minerals:     3060
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 750
+	 Minerals:     3070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 751
+	 Minerals:     3070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 752
+	 Minerals:     3070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 753
+	 Minerals:     3090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 754
+	 Minerals:     3090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 755
+	 Minerals:     3095
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 756
+	 Minerals:     3095
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 757
+	 Minerals:     3095
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 758
+	 Minerals:     3095
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 759
+	 Minerals:     3100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 760
+	 Minerals:     3100
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 761
+	 Minerals:     3110
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 762
+	 Minerals:     3115
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 763
+	 Minerals:     3125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 764
+	 Minerals:     3125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 765
+	 Minerals:     3130
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 766
+	 Minerals:     3130
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 767
+	 Minerals:     3135
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 768
+	 Minerals:     3140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 769
+	 Minerals:     3155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 770
+	 Minerals:     3155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 771
+	 Minerals:     3155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 772
+	 Minerals:     3155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 773
+	 Minerals:     3155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 774
+	 Minerals:     3155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 775
+	 Minerals:     3165
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 776
+	 Minerals:     3170
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 777
+	 Minerals:     3180
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 778
+	 Minerals:     3185
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 779
+	 Minerals:     3185
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 780
+	 Minerals:     3190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 781
+	 Minerals:     3195
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 782
+	 Minerals:     3195
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 783
+	 Minerals:     3205
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 784
+	 Minerals:     3215
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 785
+	 Minerals:     3215
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 786
+	 Minerals:     3215
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 787
+	 Minerals:     3215
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 788
+	 Minerals:     3220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 789
+	 Minerals:     3220
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 790
+	 Minerals:     3230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 791
+	 Minerals:     3230
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 792
+	 Minerals:     3240
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 793
+	 Minerals:     3240
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 794
+	 Minerals:     3250
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 795
+	 Minerals:     3255
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 796
+	 Minerals:     3260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 797
+	 Minerals:     3260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 798
+	 Minerals:     3265
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 799
+	 Minerals:     3265
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 800
+	 Minerals:     3275
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 801
+	 Minerals:     3275
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 802
+	 Minerals:     3280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 803
+	 Minerals:     3280
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 804
+	 Minerals:     3285
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 805
+	 Minerals:     3290
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 806
+	 Minerals:     3295
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 807
+	 Minerals:     3300
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 808
+	 Minerals:     3305
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 809
+	 Minerals:     3305
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 810
+	 Minerals:     3315
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 811
+	 Minerals:     3320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 812
+	 Minerals:     3320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 813
+	 Minerals:     3325
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 814
+	 Minerals:     3325
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 815
+	 Minerals:     3335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 816
+	 Minerals:     3340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 817
+	 Minerals:     3345
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 818
+	 Minerals:     3345
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 819
+	 Minerals:     3345
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 820
+	 Minerals:     3350
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 821
+	 Minerals:     3355
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 822
+	 Minerals:     3360
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 823
+	 Minerals:     3370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 824
+	 Minerals:     3370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 825
+	 Minerals:     3375
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 826
+	 Minerals:     3380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 827
+	 Minerals:     3380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 828
+	 Minerals:     3385
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 829
+	 Minerals:     3390
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 830
+	 Minerals:     3390
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 831
+	 Minerals:     3405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 832
+	 Minerals:     3405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 833
+	 Minerals:     3405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 834
+	 Minerals:     3405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 835
+	 Minerals:     3415
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 836
+	 Minerals:     3420
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 837
+	 Minerals:     3425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 838
+	 Minerals:     3430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 839
+	 Minerals:     3430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 840
+	 Minerals:     3430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 841
+	 Minerals:     3440
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 842
+	 Minerals:     3440
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 843
+	 Minerals:     3450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 844
+	 Minerals:     3455
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 845
+	 Minerals:     3455
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 846
+	 Minerals:     3460
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 847
+	 Minerals:     3465
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 848
+	 Minerals:     3465
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 849
+	 Minerals:     3470
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 850
+	 Minerals:     3475
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 851
+	 Minerals:     3485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 852
+	 Minerals:     3485
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 853
+	 Minerals:     3490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 854
+	 Minerals:     3490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 855
+	 Minerals:     3490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 856
+	 Minerals:     3505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 857
+	 Minerals:     3505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 858
+	 Minerals:     3515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 859
+	 Minerals:     3515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 860
+	 Minerals:     3515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 861
+	 Minerals:     3515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 862
+	 Minerals:     3530
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 863
+	 Minerals:     3530
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 864
+	 Minerals:     3535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 865
+	 Minerals:     3540
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 866
+	 Minerals:     3545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 867
+	 Minerals:     3545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 868
+	 Minerals:     3545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 869
+	 Minerals:     3550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 870
+	 Minerals:     3555
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 871
+	 Minerals:     3565
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 872
+	 Minerals:     3570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 873
+	 Minerals:     3575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 874
+	 Minerals:     3575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 875
+	 Minerals:     3575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 876
+	 Minerals:     3580
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 877
+	 Minerals:     3580
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 878
+	 Minerals:     3595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 879
+	 Minerals:     3595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 880
+	 Minerals:     3595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 881
+	 Minerals:     3605
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 882
+	 Minerals:     3605
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 883
+	 Minerals:     3605
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 884
+	 Minerals:     3615
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 885
+	 Minerals:     3620
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 886
+	 Minerals:     3625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 887
+	 Minerals:     3630
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 888
+	 Minerals:     3635
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 889
+	 Minerals:     3635
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 890
+	 Minerals:     3640
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 891
+	 Minerals:     3640
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 892
+	 Minerals:     3645
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 893
+	 Minerals:     3655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 894
+	 Minerals:     3655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 895
+	 Minerals:     3655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 896
+	 Minerals:     3665
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 897
+	 Minerals:     3670
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 898
+	 Minerals:     3675
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 899
+	 Minerals:     3680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 900
+	 Minerals:     3680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 901
+	 Minerals:     3685
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 902
+	 Minerals:     3690
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 903
+	 Minerals:     3700
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 904
+	 Minerals:     3700
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 905
+	 Minerals:     3705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 906
+	 Minerals:     3705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 907
+	 Minerals:     3705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 908
+	 Minerals:     3705
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 909
+	 Minerals:     3715
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 910
+	 Minerals:     3715
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 911
+	 Minerals:     3730
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 912
+	 Minerals:     3735
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 913
+	 Minerals:     3735
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 914
+	 Minerals:     3735
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 915
+	 Minerals:     3740
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 916
+	 Minerals:     3740
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 917
+	 Minerals:     3755
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 918
+	 Minerals:     3755
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 919
+	 Minerals:     3765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 920
+	 Minerals:     3765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 921
+	 Minerals:     3765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 922
+	 Minerals:     3765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 923
+	 Minerals:     3765
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 924
+	 Minerals:     3770
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 925
+	 Minerals:     3790
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 926
+	 Minerals:     3795
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 927
+	 Minerals:     3795
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 928
+	 Minerals:     3795
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 929
+	 Minerals:     3795
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 930
+	 Minerals:     3800
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 931
+	 Minerals:     3805
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 932
+	 Minerals:     3820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 933
+	 Minerals:     3820
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 934
+	 Minerals:     3825
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 935
+	 Minerals:     3825
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 936
+	 Minerals:     3825
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 937
+	 Minerals:     3825
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 938
+	 Minerals:     3830
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 939
+	 Minerals:     3835
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 940
+	 Minerals:     3850
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 941
+	 Minerals:     3855
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 942
+	 Minerals:     3855
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 943
+	 Minerals:     3855
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 944
+	 Minerals:     3860
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 945
+	 Minerals:     3860
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 946
+	 Minerals:     3870
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 947
+	 Minerals:     3880
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 948
+	 Minerals:     3880
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 949
+	 Minerals:     3880
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 950
+	 Minerals:     3885
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 951
+	 Minerals:     3885
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 952
+	 Minerals:     3895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 953
+	 Minerals:     3895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 954
+	 Minerals:     3895
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 955
+	 Minerals:     3905
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 956
+	 Minerals:     3915
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 957
+	 Minerals:     3915
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 958
+	 Minerals:     3920
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 959
+	 Minerals:     3920
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 960
+	 Minerals:     3925
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 961
+	 Minerals:     3930
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 962
+	 Minerals:     3940
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 963
+	 Minerals:     3940
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 964
+	 Minerals:     3940
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 965
+	 Minerals:     3950
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 966
+	 Minerals:     3955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 967
+	 Minerals:     3955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 968
+	 Minerals:     3955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 969
+	 Minerals:     3955
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 970
+	 Minerals:     3960
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 971
+	 Minerals:     3980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 972
+	 Minerals:     3980
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 973
+	 Minerals:     3985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 974
+	 Minerals:     3985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 975
+	 Minerals:     3985
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 976
+	 Minerals:     3990
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 977
+	 Minerals:     4000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 978
+	 Minerals:     4000
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 979
+	 Minerals:     4010
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 980
+	 Minerals:     4010
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 981
+	 Minerals:     4015
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 982
+	 Minerals:     4015
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 983
+	 Minerals:     4015
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 984
+	 Minerals:     4015
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 985
+	 Minerals:     4025
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 986
+	 Minerals:     4025
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 987
+	 Minerals:     4045
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 988
+	 Minerals:     4045
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 989
+	 Minerals:     4045
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 990
+	 Minerals:     4045
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 991
+	 Minerals:     4045
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 992
+	 Minerals:     4060
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 993
+	 Minerals:     4070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 994
+	 Minerals:     4070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 995
+	 Minerals:     4070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 996
+	 Minerals:     4070
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 997
+	 Minerals:     4075
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 998
+	 Minerals:     4075
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 999
+	 Minerals:     4080
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1000
+	 Minerals:     4085
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1001
+	 Minerals:     4090
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1002
+	 Minerals:     4105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1003
+	 Minerals:     4105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1004
+	 Minerals:     4105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1005
+	 Minerals:     4105
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1006
+	 Minerals:     4115
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1007
+	 Minerals:     4125
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1008
+	 Minerals:     4130
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1009
+	 Minerals:     4130
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1010
+	 Minerals:     4130
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1011
+	 Minerals:     4130
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1012
+	 Minerals:     4140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1013
+	 Minerals:     4140
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1014
+	 Minerals:     4145
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1015
+	 Minerals:     4150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1016
+	 Minerals:     4150
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1017
+	 Minerals:     4155
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1018
+	 Minerals:     4165
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1019
+	 Minerals:     4165
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1020
+	 Minerals:     4175
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1021
+	 Minerals:     4180
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1022
+	 Minerals:     4185
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1023
+	 Minerals:     4190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1024
+	 Minerals:     4190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1025
+	 Minerals:     4190
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1026
+	 Minerals:     4195
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1027
+	 Minerals:     4195
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1028
+	 Minerals:     4205
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1029
+	 Minerals:     4205
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1030
+	 Minerals:     4210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1031
+	 Minerals:     4210
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1032
+	 Minerals:     4215
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1033
+	 Minerals:     4225
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1034
+	 Minerals:     4235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1035
+	 Minerals:     4235
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1036
+	 Minerals:     4240
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1037
+	 Minerals:     4240
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1038
+	 Minerals:     4250
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1039
+	 Minerals:     4250
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1040
+	 Minerals:     4255
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1041
+	 Minerals:     4260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1042
+	 Minerals:     4260
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1043
+	 Minerals:     4265
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1044
+	 Minerals:     4270
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1045
+	 Minerals:     4270
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1046
+	 Minerals:     4270
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1047
+	 Minerals:     4285
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1048
+	 Minerals:     4285
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1049
+	 Minerals:     4295
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1050
+	 Minerals:     4295
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1051
+	 Minerals:     4300
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1052
+	 Minerals:     4300
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1053
+	 Minerals:     4315
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1054
+	 Minerals:     4315
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1055
+	 Minerals:     4320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1056
+	 Minerals:     4320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1057
+	 Minerals:     4320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1058
+	 Minerals:     4320
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1059
+	 Minerals:     4330
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1060
+	 Minerals:     4335
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1061
+	 Minerals:     4340
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1062
+	 Minerals:     4345
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1063
+	 Minerals:     4345
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1064
+	 Minerals:     4345
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1065
+	 Minerals:     4355
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1066
+	 Minerals:     4360
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1067
+	 Minerals:     4365
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1068
+	 Minerals:     4370
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1069
+	 Minerals:     4380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1070
+	 Minerals:     4380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1071
+	 Minerals:     4380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1072
+	 Minerals:     4380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1073
+	 Minerals:     4380
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1074
+	 Minerals:     4400
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1075
+	 Minerals:     4400
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1076
+	 Minerals:     4400
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1077
+	 Minerals:     4405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1078
+	 Minerals:     4405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1079
+	 Minerals:     4405
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1080
+	 Minerals:     4420
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1081
+	 Minerals:     4425
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1082
+	 Minerals:     4430
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1083
+	 Minerals:     4435
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1084
+	 Minerals:     4440
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1085
+	 Minerals:     4440
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1086
+	 Minerals:     4440
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1087
+	 Minerals:     4445
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1088
+	 Minerals:     4450
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1089
+	 Minerals:     4455
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1090
+	 Minerals:     4460
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1091
+	 Minerals:     4460
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1092
+	 Minerals:     4460
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1093
+	 Minerals:     4465
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1094
+	 Minerals:     4470
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1095
+	 Minerals:     4470
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1096
+	 Minerals:     4490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1097
+	 Minerals:     4490
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1098
+	 Minerals:     4495
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1099
+	 Minerals:     4500
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1100
+	 Minerals:     4500
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1101
+	 Minerals:     4505
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1102
+	 Minerals:     4510
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1103
+	 Minerals:     4510
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1104
+	 Minerals:     4515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1105
+	 Minerals:     4515
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1106
+	 Minerals:     4520
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1107
+	 Minerals:     4520
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1108
+	 Minerals:     4530
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1109
+	 Minerals:     4530
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1110
+	 Minerals:     4535
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1111
+	 Minerals:     4545
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1112
+	 Minerals:     4550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1113
+	 Minerals:     4550
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1114
+	 Minerals:     4560
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1115
+	 Minerals:     4570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1116
+	 Minerals:     4570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1117
+	 Minerals:     4570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1118
+	 Minerals:     4570
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1119
+	 Minerals:     4575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1120
+	 Minerals:     4575
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1121
+	 Minerals:     4585
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1122
+	 Minerals:     4585
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1123
+	 Minerals:     4595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1124
+	 Minerals:     4595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1125
+	 Minerals:     4595
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1126
+	 Minerals:     4600
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1127
+	 Minerals:     4610
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1128
+	 Minerals:     4615
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1129
+	 Minerals:     4625
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1130
+	 Minerals:     4630
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1131
+	 Minerals:     4630
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1132
+	 Minerals:     4630
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1133
+	 Minerals:     4630
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1134
+	 Minerals:     4635
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1135
+	 Minerals:     4640
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1136
+	 Minerals:     4640
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1137
+	 Minerals:     4650
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1138
+	 Minerals:     4655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1139
+	 Minerals:     4655
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1140
+	 Minerals:     4660
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1141
+	 Minerals:     4665
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1142
+	 Minerals:     4670
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1143
+	 Minerals:     4680
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
+-- Step 1144
+	 Minerals:     4685
+	 Vespene:      0
+	 Idle Workers: 0
+	 Food used:    0
