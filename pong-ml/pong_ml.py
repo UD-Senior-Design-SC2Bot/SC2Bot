@@ -6,7 +6,6 @@ import pygame
 from pygame.locals import *
 from sys import exit
 import random
-from pong_agent import pong_agent
 from pong_agent import MLPongAgent
 import ml_model
 import datasets
@@ -17,7 +16,7 @@ import data_collect
 
 class pong:
     pygame.init()
-    model = ml_model.generate_model(datasets.load('all'))
+    model = ml_model.generate_model(datasets.load('ideal'))
     agent = MLPongAgent(model)
 
     screen = pygame.display.set_mode((640, 480), 0, 32)

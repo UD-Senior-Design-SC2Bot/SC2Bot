@@ -61,7 +61,6 @@ while done == False:
         
         if event.type == KEYDOWN:
             if event.key == K_UP:
-                print("Hi!")
                 input_opcode = 1
                 bar1_move = -ai_speed
             elif event.key == K_DOWN:

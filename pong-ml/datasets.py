@@ -10,6 +10,7 @@ def load(name):
     elif (name == 'no-move'):
         dataset = data_collect.deserialize_data(os.path.join(projdirs.data_special, "no-move.dat"))
     elif (name == 'all'):
-        dataset = data_collect.deserialize_all_data()
-
+        dataset = data_collect.deserialize_all_data(projdirs.data)
+    elif (name == 'ideal'):
+        dataset = data_collect.deserialize_all_data(projdirs.data_special_ideal)
     return dataset

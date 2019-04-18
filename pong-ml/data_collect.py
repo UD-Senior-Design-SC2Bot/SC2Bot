@@ -48,16 +48,16 @@ def deserialize_data(filename):
         data = pickle.load(data_file)
     return data
 
-def deserialize_all_data():
+def deserialize_all_data(directory):
     all_data = []
 
-    if (not os.path.exists(projdirs.data)):
+    if (not os.path.exists(directory)):
         raise Exception("Data directory does not exist " +
             "- there is no data to read.")
 
-    for data_filename in os.listdir(projdirs.data):
+    for data_filename in os.listdir(directory):
         if data_filename.endswith(".dat"):
-            data = deserialize_data(os.path.join(projdirs.data, data_filename))
+            data = deserialize_data(os.path.join(directory, data_filename))
             for frame in data:
                 all_data.append(frame)
 
