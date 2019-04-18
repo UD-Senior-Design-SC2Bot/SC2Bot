@@ -4,8 +4,14 @@ pong_ml.py
 Pong game, modified from 
 http://www.pygame.org/project-Very+simple+Pong+game-816-.html
 Utilizes a tensorflow model as the agent
+
+Command line arguments:
+    -nf     The number of frames to use from the dataset
+    -d      The name of the dataset to load
+
 '''
 
+import sys
 import numpy
 import pygame
 from pygame.locals import *
@@ -17,13 +23,39 @@ import matplotlib.pyplot as plt
 import data_collect
 from frame_data import FrameData
 
-# import sys
-# print "This is the name of the script: ", sys.argv[0]
-# print "Number of arguments: ", len(sys.argv)
-# print "The arguments are: " , str(sys.argv)
+
+
+
+print("\n===== Parsing user arguments... =====")
+numframes = -1
+chosen_dataset = 'ideal'
+
+i = 0
+while (i < len(sys.argv)):
+    arg = sys.argv[i]
+    
+    if (arg == '-nf' and (i + 1) < len(sys.argv)):
+        # numframes
+        numframes = int(sys.argv[i + 1])
+        i += 1
+
+    if (arg == '-d' and (i + 1) < len(sys.argv)):
+        # chosen dataset
+        chosen_dataset = sys.argv[i + 1]
+        i += 1
+
+    i += 1
+
+if (numframes == -1):
+    print("Using all frames of data")
+else:
+    print("Using {} frames of data".format(numframes))
+print("Using the '{}' dataset".format(chosen_dataset))
+
+print("=====================================\n")
 
 pygame.init()
-model = ml_model.PongModel(datasets.load('ideal'))
+model = ml_model.PongModel(datasets.loadn(chosen_dataset, numframes))
 
 screen = pygame.display.set_mode((640, 480), 0, 32)
 
