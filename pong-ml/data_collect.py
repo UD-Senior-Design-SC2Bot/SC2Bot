@@ -3,9 +3,7 @@ import os
 import pickle
 import time
 import socket
-
-
-data_dir = os.path.join(os.getcwd(), "collected_data")
+import projdirs
 
 class FrameData():
     def __init__(self, frame_no, input_opcode, bar_y, ball_x, ball_y):
@@ -34,12 +32,12 @@ class FrameData():
 def generate_unique_filename():
     current_time = time.strftime("%m-%d-%Y %H hr - %M m - %S s")
     computer_name = socket.gethostname()
-    filename = os.path.join(data_dir, "{} - {}.dat".format(computer_name, current_time))
+    filename = os.path.join(projdirs.data, "{} - {}.dat".format(computer_name, current_time))
     return filename
 
 def serialize_data(data):
-    if (not os.path.exists(data_dir)):
-        os.mkdir(data_dir)
+    if (not os.path.exists(projdirs.data)):
+        os.mkdir(projdirs.data)
 
     with open(generate_unique_filename(), "wb+") as session_data_file:
         pickle.dump(data, session_data_file)
@@ -53,13 +51,13 @@ def deserialize_data(filename):
 def deserialize_all_data():
     all_data = []
 
-    if (not os.path.exists(data_dir)):
+    if (not os.path.exists(projdirs.data)):
         raise Exception("Data directory does not exist " +
             "- there is no data to read.")
 
-    for data_filename in os.listdir(data_dir):
+    for data_filename in os.listdir(projdirs.data):
         if data_filename.endswith(".dat"):
-            data = deserialize_data(os.path.join(data_dir, data_filename))
+            data = deserialize_data(os.path.join(projdirs.data, data_filename))
             for frame in data:
                 all_data.append(frame)
 
