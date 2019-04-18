@@ -9,6 +9,7 @@ import random
 import pygame.surfarray as surfarray
 import matplotlib.pyplot as plt
 import data_collect
+from frame_data import FrameData
 
 pygame.init()
 
@@ -144,7 +145,7 @@ while done == False:
         circle_x, circle_y = 307.5, 232.5
         bar1_y, bar2_y = 215., 215.
     
-    session_training_data.append(data_collect.FrameData(frame_num, input_opcode, bar1_y, circle_x, circle_y))
+    session_training_data.append(FrameData(frame_num, input_opcode, bar1_y, circle_x, circle_y))
 
 
     # image_data = pygame.surfarray.array3d(pygame.display.get_surface())

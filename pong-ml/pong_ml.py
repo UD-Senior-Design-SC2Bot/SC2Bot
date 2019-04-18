@@ -11,6 +11,7 @@ import datasets
 import pygame.surfarray as surfarray
 import matplotlib.pyplot as plt
 import data_collect
+from frame_data import FrameData
 
 
 pygame.init()
@@ -61,7 +62,7 @@ while done == False:
     ai_speed = speed_circ * time_sec
 
     # Use the model to predict the next move
-    frame_tensor = data_collect.FrameData(frame_num, -1, bar1_y, circle_x, circle_y).to_processed_tensor()
+    frame_tensor = FrameData(frame_num, -1, bar1_y, circle_x, circle_y).to_processed_tensor()
     move = model.get_next_move(frame_tensor)
     # Respond to the model
     if (move == 1): # Up
