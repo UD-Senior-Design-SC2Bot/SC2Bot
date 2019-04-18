@@ -52,11 +52,15 @@ class pong:
     session_training_data = []
 
     frame_num = 0
+    hits = 0
 
     done = False
 
     def play(self, done):
-        while done == False:       
+        while done == False:
+            self.frame_num += 1
+            if self.frame_num >= 10000:
+                done = True       
             time_passed = self.clock.tick(30)
             time_sec = time_passed / 1000.0
             ai_speed = self.speed_circ * time_sec
@@ -120,6 +124,7 @@ class pong:
                 if self.circle_y >= self.bar1_y - 7.5 and self.circle_y <= self.bar1_y + 42.5:
                     self.circle_x = 20.
                     self.speed_x = -self.speed_x
+                    self.hits += 1
             if self.circle_x >= self.bar2_x - 15.:
                 if self.circle_y >= self.bar2_y - 7.5 and self.circle_y <= self.bar2_y + 42.5:
                     self.circle_x = 605.
@@ -149,5 +154,6 @@ class pong:
 
 game = pong()
 game.play(game.done)
-
+accuracy = game.hits/(game.hits + game.bar2_score)
+print("Hits: ", game.hits, " Score 1: ", game.bar1_score, " Score 2: ", game.bar2_score, "Accuracy: ", accuracy)
 pygame.quit()

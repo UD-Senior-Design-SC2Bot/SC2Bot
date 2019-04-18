@@ -49,6 +49,8 @@ done = False
 input_opcode = 0
 while done == False:       
     frame_num += 1
+    if frame_num >= 5000:
+        done = True
     '''
     input_opcode:
         0 = noop
