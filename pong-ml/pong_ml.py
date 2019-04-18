@@ -6,7 +6,6 @@ import pygame
 from pygame.locals import *
 from sys import exit
 import random
-from pong_agent import MLPongAgent
 import ml_model
 import datasets
 import pygame.surfarray as surfarray
@@ -16,8 +15,7 @@ import data_collect
 
 class pong:
     pygame.init()
-    model = ml_model.generate_model(datasets.load('ideal'))
-    agent = MLPongAgent(model)
+    model = ml_model.PongModel(datasets.load('ideal'))
 
     screen = pygame.display.set_mode((640, 480), 0, 32)
 
@@ -66,7 +64,7 @@ class pong:
 
             # Use the model to predict the next move
             frame_tensor = data_collect.FrameData(self.frame_num, -1, self.bar1_y, self.circle_x, self.circle_y).to_processed_tensor()
-            move = self.agent.get_next_move(frame_tensor)
+            move = self.model.get_next_move(frame_tensor)
             # Respond to the model
             if (move == 1): # Up
                 self.bar1_move = -ai_speed
