@@ -9,7 +9,6 @@ Utilizes a tensorflow model as the agent
 import numpy
 import pygame
 from pygame.locals import *
-from sys import exit
 import random
 import ml_model
 import datasets
@@ -18,6 +17,10 @@ import matplotlib.pyplot as plt
 import data_collect
 from frame_data import FrameData
 
+# import sys
+# print "This is the name of the script: ", sys.argv[0]
+# print "Number of arguments: ", len(sys.argv)
+# print "The arguments are: " , str(sys.argv)
 
 pygame.init()
 model = ml_model.PongModel(datasets.load('ideal'))

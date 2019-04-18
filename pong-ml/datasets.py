@@ -9,6 +9,13 @@ import projdirs
 import os
 
 def load(name):
+    return loadn(name, -1)
+
+def loadn(name, n):
+    '''
+    Loads n frames from a dataset.
+    Loads all frames if n = -1.
+    '''
     if (name == 'up-only'):
         dataset = data_collect.deserialize_data(os.path.join(projdirs.data_special, "up-only.dat"))
     elif (name == 'down-only'):
@@ -19,4 +26,8 @@ def load(name):
         dataset = data_collect.deserialize_all_data(projdirs.data)
     elif (name == 'ideal'):
         dataset = data_collect.deserialize_all_data(projdirs.data_special_ideal)
-    return dataset
+
+    if (n == -1):
+        return dataset
+    else:
+        return dataset[0:min(n, len(dataset))]
