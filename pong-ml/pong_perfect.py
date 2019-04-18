@@ -1,5 +1,12 @@
-#!/usr/bin/env python
-# Modified from http://www.pygame.org/project-Very+simple+Pong+game-816-.html
+'''
+pong_training.py
+
+Pong game, modified from 
+http://www.pygame.org/project-Very+simple+Pong+game-816-.html
+Moves paddle by way of a scripted bot that will
+perfectly follow the ball.
+Automatically records game data at the end.
+'''
 
 import numpy
 import pygame

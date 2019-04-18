@@ -1,3 +1,10 @@
+'''
+data_collect.py
+
+Contains various functions that serialize/deserialize
+frame data.
+'''
+
 import datetime
 import os
 import pickle

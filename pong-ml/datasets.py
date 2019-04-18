@@ -1,3 +1,9 @@
+'''
+datasets.py
+
+An access point for reading in datasets.
+'''
+
 import data_collect
 import projdirs
 import os

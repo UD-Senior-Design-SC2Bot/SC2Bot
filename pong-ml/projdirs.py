@@ -1,3 +1,9 @@
+'''
+projdirs.py
+
+The directory structure of the project.
+'''
+
 import os
 
 working_dir = os.path.dirname(os.path.realpath(__file__))

@@ -1,5 +1,10 @@
-#!/usr/bin/env python
-# Modified from http://www.pygame.org/project-Very+simple+Pong+game-816-.html
+'''
+pong_ml.py
+
+Pong game, modified from 
+http://www.pygame.org/project-Very+simple+Pong+game-816-.html
+Utilizes a tensorflow model as the agent
+'''
 
 import numpy
 import pygame

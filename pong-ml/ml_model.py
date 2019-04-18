@@ -13,6 +13,10 @@ game_y = 480
 paddle_movement = ['No-Move', 'Up', 'Down']
 
 class PongModel():
+    '''
+    A machine learning model that predicts the next
+    move to take in the game.
+    '''
     def __init__(self, dataset):
         self.model = self.__generate_model(dataset)
     

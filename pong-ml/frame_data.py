@@ -1,4 +1,10 @@
 class FrameData():
+    '''
+    A snapshot of game variables at a particular
+    frame. Can be converted to a tensor for use
+    in generating a predictive model that plays
+    pong.
+    '''
     def __init__(self, frame_no, input_opcode, bar_y, ball_x, ball_y):
         '''
         input_opcode:

@@ -1,5 +1,11 @@
-#!/usr/bin/env python
-# Modified from http://www.pygame.org/project-Very+simple+Pong+game-816-.html
+'''
+pong_training.py
+
+Pong game, modified from 
+http://www.pygame.org/project-Very+simple+Pong+game-816-.html
+Takes in keyboard input to move the paddle.
+Automatically records game data at the end.
+'''
 
 import numpy
 import pygame
