@@ -158,13 +158,6 @@ while done == False:
         bar1_y, bar2_y = 215., 215.
     
     session_training_data.append(FrameData(frame_num, input_opcode, bar1_y, circle_x, circle_y))
-
-
-    # image_data = pygame.surfarray.array3d(pygame.display.get_surface())
-    # if done == True:
-    #     plt.imshow(image_data)
-    #     plt.show()
-
     pygame.display.update()
 
 data_collect.serialize_data(session_training_data)
