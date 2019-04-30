@@ -1,7 +1,7 @@
 '''
 pong_ml.py
 
-Pong game, modified from 
+Pong game, modified from
 http://www.pygame.org/project-Very+simple+Pong+game-816-.html
 Utilizes a tensorflow model as the agent
 
@@ -33,7 +33,7 @@ chosen_dataset = 'ideal'
 i = 0
 while (i < len(sys.argv)):
     arg = sys.argv[i]
-    
+
     if (arg == '-nf' and (i + 1) < len(sys.argv)):
         # numframes
         numframes = int(sys.argv[i + 1])
@@ -65,7 +65,9 @@ background = back.convert()
 background.fill((0, 0, 0))
 bar = pygame.Surface((10, 50))
 bar1 = bar.convert()
-bar1.fill((255, 255, 255))
+#bar1.fill((255, 255, 255))
+#bar color is green for ML bot
+bar1.fill((0, 255, 0)) 
 bar2 = bar.convert()
 bar2.fill((255, 255, 255))
 circ_sur = pygame.Surface((15, 15))
@@ -96,7 +98,7 @@ done = False
 while done == False:
     frame_num += 1
     if frame_num >= 10000:
-        done = True       
+        done = True
     time_passed = clock.tick(30)
     time_sec = time_passed / 1000.0
     ai_speed = speed_circ * time_sec
@@ -113,7 +115,7 @@ while done == False:
     for event in pygame.event.get():  # User did something
         if event.type == pygame.QUIT:  # If user clicked close
             done = True  # Flag that we are done so we exit this loop
-        
+
     score1 = font.render(str(bar1_score), True, (255, 255, 255))
     score2 = font.render(str(bar2_score), True, (255, 255, 255))
 
@@ -127,14 +129,14 @@ while done == False:
     screen.blit(score2, (380., 210.))
 
     bar1_y += bar1_move
-        
+
     # movement of circle
-    
-        
+
+
     circle_x += speed_x * time_sec
     circle_y += speed_y * time_sec
-    
-    
+
+
     # AI of the computer.
     if circle_x >= 305.:
         if not bar2_y == circle_y + 7.5:
@@ -144,7 +146,7 @@ while done == False:
                 bar2_y -= ai_speed
         else:
             bar2_y == circle_y + 7.5
-    
+
     # Safety out of bound reset
     if bar1_y >= 420.:
         bar1_y = 420.
@@ -154,7 +156,7 @@ while done == False:
         bar2_y = 420.
     elif bar2_y <= 10.:
         bar2_y = 10.
-        
+
     # Simple Bar collision
     if circle_x <= bar1_x + 10.:
         if circle_y >= bar1_y - 7.5 and circle_y <= bar1_y + 42.5:
@@ -165,7 +167,7 @@ while done == False:
         if circle_y >= bar2_y - 7.5 and circle_y <= bar2_y + 42.5:
             circle_x = 605.
             speed_x = -speed_x
-                
+
     # Detects North South bounds
     if circle_y <= 10.:
         speed_y = -speed_y
@@ -173,7 +175,7 @@ while done == False:
     elif circle_y >= 457.5:
         speed_y = -speed_y
         circle_y = 457.5
-    
+
     # Win condition.
     if circle_x < 5.:
         bar2_score += 1
@@ -183,7 +185,7 @@ while done == False:
         bar1_score += 1
         circle_x, circle_y = 307.5, 232.5
         bar1_y, bar2_y = 215., 215.
-    
+
     # Stop movement
     bar1_move = 0.
     pygame.display.update()
