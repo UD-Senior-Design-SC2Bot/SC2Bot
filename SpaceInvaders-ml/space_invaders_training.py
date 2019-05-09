@@ -16,6 +16,7 @@ import pygame.surfarray as surfarray
 import matplotlib.pyplot as plt
 import data_collect
 from frame_data import FrameData
+from time import time
 
 
 # ML objects
@@ -138,15 +139,18 @@ class SpaceInvaders:
     def playerUpdate(self):
         global input_opcode
         key = pygame.key.get_pressed()
-        if key[K_RIGHT] and self.playerX < 800 - self.player.get_width():
+        if key[K_RIGHT]:
             input_opcode = 1
-            self.playerX += 5
-        elif key[K_LEFT] and self.playerX > 0:
+            if self.playerX < 800 - self.player.get_width():
+                self.playerX += 5
+        elif key[K_LEFT]:
             input_opcode = 2
-            self.playerX -= 5
-        if key[K_SPACE] and not self.bullet:
+            if self.playerX > 0:
+                self.playerX -= 5
+        if key[K_SPACE]:
             input_opcode = 3
-            self.bullet = pygame.Rect(self.playerX + self.player.get_width() / 2- 2, self.playerY - 15, 5, 10)
+            if not self.bullet:
+                self.bullet = pygame.Rect(self.playerX + self.player.get_width() / 2- 2, self.playerY - 15, 5, 10)
 
     def bulletUpdate(self):
         for i, enemy in enumerate(self.enemies):
@@ -186,17 +190,21 @@ class SpaceInvaders:
     def resetPlayer(self):
         self.playerX = 400
 
+
     def run(self):
         global input_opcode
         global frame_num
         done = False
 
         clock = pygame.time.Clock()
+        t = time() # starting time
+
         for x in range(3):
             self.moveEnemiesDown()
         while done == False:
             frame_num += 1
             input_opcode = 0
+
             clock.tick(60)
             self.screen.fill((0,0,0))
             for event in pygame.event.get():
@@ -244,9 +252,16 @@ class SpaceInvaders:
                 self.bulletUpdate()
                 self.enemyUpdate()
                 self.playerUpdate()
-                pxarray = pygame.surfarray.array2d(self.screen)
+
+                t_current = time()
+                if t_current - t > .3:
+                    pxarray = pygame.surfarray.array2d(self.screen)
+                    session_training_data.append(FrameData(frame_num, input_opcode, pxarray))
+                    t = t_current
+
                 #session_training_data.append(FrameData(frame_num, input_opcode, player_coord, player_bullet, enemies, enemy_bullets, barrier_particles, self.lives, self.score))
-                session_training_data.append(FrameData(frame_num, input_opcode, pxarray))
+                #pxarray = pygame.surfarray.array2d(self.screen)
+                #session_training_data.append(FrameData(frame_num, input_opcode, pxarray))
 
                 # Extracting data from
 
