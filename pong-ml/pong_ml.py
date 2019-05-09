@@ -67,7 +67,7 @@ bar = pygame.Surface((10, 50))
 bar1 = bar.convert()
 #bar1.fill((255, 255, 255))
 #bar color is green for ML bot
-bar1.fill((0, 255, 0)) 
+bar1.fill((0, 255, 0))
 bar2 = bar.convert()
 bar2.fill((255, 255, 255))
 circ_sur = pygame.Surface((15, 15))
@@ -97,8 +97,8 @@ done = False
 
 while done == False:
     frame_num += 1
-    if frame_num >= 10000:
-        done = True
+    #if frame_num >= 10000:
+        #done = True
     time_passed = clock.tick(30)
     time_sec = time_passed / 1000.0
     ai_speed = speed_circ * time_sec

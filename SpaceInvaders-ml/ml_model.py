@@ -10,9 +10,9 @@ import numpy as np
 game_x = 640
 game_y = 480
 
-paddle_movement = ['No-Move', 'Up', 'Down']
+paddle_movement = ['No-Move', 'Right', 'Left', 'Shoot']
 
-class PongModel():
+class SpaceInvadersModel():
     '''
     A machine learning model that predicts the next
     move to take in the game.
@@ -35,7 +35,9 @@ class PongModel():
         training_coords = []
         training_correct_inputs = []
         for frame in dataset:
-            tensor = np.array(frame.to_processed_tensor()) # Convert frame to a normalized tensor
+            #print(frame.to_processed_tensor())
+            #break
+            tensor = np.array(frame.to_processed_tensor(), dtype=float) # Convert frame to a normalized tensor
             training_coords.append(tensor)
             training_correct_inputs.append(frame.input_opcode)
 
@@ -45,9 +47,9 @@ class PongModel():
 
         # Multi-layered keras model
         model = keras.Sequential([
-            keras.layers.Flatten(),
-            keras.layers.Dense(5, activation=tf.nn.relu),
-            keras.layers.Dense(3, activation=tf.nn.softmax)
+            keras.layers.Flatten(),#input_shape=(800, 600)
+            keras.layers.Dense(12, activation=tf.nn.relu),
+            keras.layers.Dense(4, activation=tf.nn.softmax)
         ])
         model.compile(optimizer='adam',
                     loss='sparse_categorical_crossentropy',
