@@ -147,10 +147,12 @@ class SpaceInvaders:
             input_opcode = 2
             if self.playerX > 0:
                 self.playerX -= 5
-        if key[K_SPACE]:
+        elif key[K_SPACE]:
             input_opcode = 3
             if not self.bullet:
                 self.bullet = pygame.Rect(self.playerX + self.player.get_width() / 2- 2, self.playerY - 15, 5, 10)
+        else:
+            input_opcode = 0
 
     def bulletUpdate(self):
         for i, enemy in enumerate(self.enemies):
@@ -197,13 +199,14 @@ class SpaceInvaders:
         done = False
 
         clock = pygame.time.Clock()
-        t = time() # starting time
 
         for x in range(3):
             self.moveEnemiesDown()
         while done == False:
             frame_num += 1
-            input_opcode = 0
+
+            #if self.bullet == None:
+                #input_opcode = 0
 
             clock.tick(60)
             self.screen.fill((0,0,0))
@@ -253,13 +256,8 @@ class SpaceInvaders:
                 self.enemyUpdate()
                 self.playerUpdate()
 
-                t_current = time()
-                if t_current - t > .3:
-                    pxarray = pygame.surfarray.array2d(self.screen)
-                    session_training_data.append(FrameData(frame_num, input_opcode, pxarray))
-                    t = t_current
-
-                #session_training_data.append(FrameData(frame_num, input_opcode, player_coord, player_bullet, enemies, enemy_bullets, barrier_particles, self.lives, self.score))
+                print(input_opcode)
+                session_training_data.append(FrameData(frame_num, input_opcode, player_coord, player_bullet, enemies, enemy_bullets, self.lives, self.score))
                 #pxarray = pygame.surfarray.array2d(self.screen)
                 #session_training_data.append(FrameData(frame_num, input_opcode, pxarray))
 

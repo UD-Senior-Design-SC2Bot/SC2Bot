@@ -48,7 +48,7 @@ class SpaceInvadersModel():
         # Multi-layered keras model
         model = keras.Sequential([
             keras.layers.Flatten(),#input_shape=(800, 600)
-            keras.layers.Dense(12, activation=tf.nn.relu),
+            keras.layers.Dense(3, activation=tf.nn.relu),
             keras.layers.Dense(4, activation=tf.nn.softmax)
         ])
         model.compile(optimizer='adam',

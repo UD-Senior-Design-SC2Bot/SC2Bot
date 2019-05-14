@@ -242,10 +242,10 @@ class SpaceInvaders:
                 #pxarray = pygame.surfarray.array2d(self.screen)
                 #16724992 --> largest number
                 #del pixArray
-                """
+
                 player_coord = (self.playerX, self.playerY)
 
-                player_bullet = None
+                player_bullet = (-1,-1)
                 if self.bullet != None:
                     player_bullet = (self.bullet[0], self.bullet[1])
 
@@ -266,14 +266,11 @@ class SpaceInvaders:
                     if rect != None:
                         barrier_particles.append((rect[0],rect[1]))
 
-                """
 
                 self.bulletUpdate()
                 self.enemyUpdate()
 
-                pxarray = pygame.surfarray.array2d(self.screen)
-
-                frame_tensor = FrameData(frame_num, -1, pxarray).to_processed_tensor()
+                frame_tensor = FrameData(frame_num, -1, player_coord, player_bullet, enemies, enemy_bullets, self.lives, self.score).to_processed_tensor()
                 move = model.get_next_move(frame_tensor)
 
                 if (move == 1) and self.playerX < 800 - self.player.get_width(): # Right
